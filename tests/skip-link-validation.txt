@@ -1,0 +1,1 @@
+# Add URLs below (one per line) for which link validation should be skipped.
