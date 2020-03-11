@@ -4,6 +4,7 @@ layout: default
 
 <div class="page">
   <h3 class="page-title">{{ page.name }}</h3>
+  <hr>
 
   <p><b> Conference year:</b> {{ page.year }}</p>
   <p><b> Disciplines:</b> {{ page.discipline }}</p>
@@ -40,5 +41,8 @@ layout: default
   <p><b> Sustainability initiatives:</b> {{ page.sustainability_initiatives }}</p>
   <p><b> Conference url:</b> <a href="{{ page.conference_url }}" target="_blank">{{ page.conference_url }}</a></p>
   <p><b> Other details:</b> {{ page.other_details }}</p>
+
+  <hr>
+  <a href="{{ site.baseurl }}/">< Return Back </a>
 
 </div>
