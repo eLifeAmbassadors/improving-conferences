@@ -25,7 +25,7 @@ A list of {{ numconference }} national and international academic meetings in va
   <tbody>
 {% for conference in site.conferences %}
   <tr>
-	<td><a href="{{ conference.conference_url }}">{{ conference.name }}</a></td>
+	<td><a href="{{ site.baseurl }}{{ conference.url }}">{{ conference.name }}</a></td>
   <td>{{ conference.year }}</td>
   <td>{{ conference.discipline }}</td>
 	<td>{{ conference.gender_balance }}</td>
