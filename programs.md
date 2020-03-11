@@ -54,7 +54,7 @@ List all conferences by discipline
          {% endif %}
 		 {% if mydiscipline == discipline %}
 		 <li>
-		 <a href="{{ conference.url }}">
+		 <a href="{{ site.baseurl }}{{ conference.url }}">
 		 {{ conference.name }}
 		 </a>
  		 <small>{{ conference.year }}, <em>{{ conference.venues }}</em></small>
