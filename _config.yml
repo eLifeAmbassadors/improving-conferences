@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 email: azez.khan@gmail.com
-baseurl: "improving-conferences" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/improving-conferences" # the subpath of your site, e.g. /blog
+url: "https://elifeambassadors.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: khanaziz84
 github_username:  eLifeAmbassadors
 
