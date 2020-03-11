@@ -19,6 +19,7 @@ A list of {{ numconference }} national and international academic meetings in va
     <th>Discipline</th>
     <th>Gender Balance</th>
     <th>Carbon footprint</th>
+    <th>Cost</th>
   </tr>
   </thead>
 
@@ -30,6 +31,7 @@ A list of {{ numconference }} national and international academic meetings in va
   <td>{{ conference.discipline }}</td>
 	<td>{{ conference.gender_balance }}</td>
   <td>{{ conference.carbon_footprint }}</td>
+  <td>{{ conference.cost }}</td>
   </tr>
 {% endfor %}
   </tbody>
