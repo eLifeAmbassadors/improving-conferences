@@ -128,8 +128,8 @@
     <th>Gender Balance</th>
     <th>Attendance cost</th>
     <th>Registration fees</th>
-    <th>Carbon footprint</th>
-    <th>Other carbon footprint</th>
+    <th>Carbon footprint (tons of CO2)</th>
+    <th>Other carbon footprint (tons of CO2)</th>
     <th>On-site maternity</th>
     <th>On-site childcare</th>
     <th>Caregiver grant</th>
@@ -4060,10 +4060,8 @@
         $(document).ready( function () {
             $('#data_table').DataTable({
                 "pageLength": 50,
-                rowReorder: {
-                    selector: 'td:nth-child(2)'
-                },
                 responsive: true,
+
                 language: {
                   searchPlaceholder: "Search Conferences",
                 },
@@ -4074,7 +4072,8 @@
                 "autoWidth": true,
                 "lengthChange": true,
                 "ordering": true,
-                columnDefs:[{targets:[3,4,9,10,11,12,13,14],className:"truncate"}],
+                columnDefs:[{targets:[9,10,11,12,13,14],className:"truncate"},
+                ],
                     createdRow: function(row){
                        var td = $(row).find(".truncate");
                        td.attr("title", td.html());
