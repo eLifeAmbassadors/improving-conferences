@@ -23,8 +23,8 @@ A list of {{ numconference }} national and international academic meetings in va
     <th>Gender Balance</th>
     <th>Attendance cost</th>
     <th>Registration fees</th>
-    <th>Carbon footprint</th>
-    <th>Other carbon footprint</th>
+    <th>Carbon footprint (tons of CO2)</th>
+    <th>Other carbon footprint (tons of CO2)</th>
     <th>On-site maternity</th>
     <th>On-site childcare</th>
     <th>Caregiver grant</th>
