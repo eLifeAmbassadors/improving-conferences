@@ -1,14 +1,54 @@
 <footer>
     <!-- Load and initialize DataTables -->
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/public/jquery.dataTables.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/rowreorder/1.2.6/css/rowReorder.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.min.css">
+
     <script src="{{ site.baseurl }}/public/jquery-3.3.1.min.js"></script>
+    <!--
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/public/jquery.dataTables.min.css">
     <script src="{{ site.baseurl }}/public/jquery.dataTables.min.js"></script>
+-->
+
+    <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/rowreorder/1.2.6/js/dataTables.rowReorder.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
 
     <script type="text/javascript">
         $(document).ready( function () {
             $('#data_table').DataTable({
-                "pageLength": 50
+                "pageLength": 50,
+                rowReorder: {
+                    selector: 'td:nth-child(2)'
+                },
+                responsive: true,
+                language: {
+                  searchPlaceholder: "Search Conferences",
+                },
+                "lengthMenu": [
+                  [5, 10, 25, 50, 100, -1],
+                  [5, 10, 25, 50, 100, "All"]
+                ],
+                "autoWidth": true,
+                "lengthChange": true,
+                "ordering": true,
+                columnDefs:[{targets:[3,4,9],className:"truncate"}],
+                    createdRow: function(row){
+                       var td = $(row).find(".truncate");
+                       td.attr("title", td.html());
+                  }
+
             });
         } );
     </script>
+
+<style type="text/css">
+    .truncate {
+          max-width:600px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+</style>
 </footer>

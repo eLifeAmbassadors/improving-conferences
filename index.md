@@ -14,12 +14,16 @@ A list of {{ numconference }} national and international academic meetings in va
 <table id='data_table' class="hover" style="width:100%">
   <thead>
   <tr>
-    <th>Conference</th>
+    <th>Conference name</th>
     <th>Year</th>
+    <th>Total years</th>
     <th>Discipline</th>
     <th>Gender Balance</th>
+    <th>Attendance cost</th>
+    <th>Registration fees</th>
     <th>Carbon footprint</th>
-    <th>Cost</th>
+    <th>Other carbon footprint</th>
+    <th>Travel awards</th>
   </tr>
   </thead>
 
@@ -28,10 +32,16 @@ A list of {{ numconference }} national and international academic meetings in va
   <tr>
 	<td><a href="{{ site.baseurl }}{{ conference.url }}">{{ conference.name }}</a></td>
   <td>{{ conference.year }}</td>
+  <td>{{ conference.total_years }}</td>
   <td>{{ conference.discipline }}</td>
 	<td>{{ conference.gender_balance }}</td>
+  <td>{{ conference.attendance_cost }}</td>
+  <td>{{ conference.registration_fee }}</td>
   <td>{{ conference.carbon_footprint }}</td>
-  <td>{{ conference.cost }}</td>
+  <td>{{ conference.other_carbon_footprint }}</td>
+    <td>{{ conference.travel_awards }}</td>
+
+
   </tr>
 {% endfor %}
   </tbody>
