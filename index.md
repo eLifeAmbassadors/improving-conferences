@@ -9,7 +9,9 @@ title: Home
 {% endfor %}
 <h3>A database of scientific conferences and its key features</h3>
 
-A list of {{ numconference }} national and international academic meetings in various disciplines for key features of inclusivity and sustainability and propose solutions to make conferences more modern, effective, equitable and intellectually productive for the research community and environmentally sustainable for our planet. 
+A list of {{ numconference }} national and international academic meetings in various disciplines for key features of inclusivity and sustainability and propose solutions to make conferences more modern, effective, equitable and intellectually productive for the research community and environmentally sustainable for our planet.
+
+<small>For more details pleace click the conference name.</small>
 
 <table id='data_table' class="hover" style="width:100%">
   <thead>
@@ -23,6 +25,11 @@ A list of {{ numconference }} national and international academic meetings in va
     <th>Registration fees</th>
     <th>Carbon footprint</th>
     <th>Other carbon footprint</th>
+    <th>On-site maternity</th>
+    <th>On-site childcare</th>
+    <th>Caregiver grant</th>
+    <th>Career development</th>
+    <th>ECR promotion events</th>
     <th>Travel awards</th>
   </tr>
   </thead>
@@ -39,8 +46,12 @@ A list of {{ numconference }} national and international academic meetings in va
   <td>{{ conference.registration_fee }}</td>
   <td>{{ conference.carbon_footprint }}</td>
   <td>{{ conference.other_carbon_footprint }}</td>
-    <td>{{ conference.travel_awards }}</td>
-
+  <td>{{ conference.onsite_maternity }}</td>
+  <td>{{ conference.onsite_childcare }}</td>
+  <td>{{ conference.caregiver_grant }}</td>
+  <td>{{ conference.career_development }}</td>
+  <td>{{ conference.ecr_promotion_events }}</td>
+  <td>{{ conference.travel_awards }}</td>
 
   </tr>
 {% endfor %}
