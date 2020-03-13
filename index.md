@@ -14,7 +14,7 @@ title: Home
     <th>Year</th>
     <th>Total years</th>
     <th>Discipline</th>
-    <th>Gender Balance</th>
+    <th>Gender Balance/Diversity Statement</th>
     <th>Attendance cost</th>
     <th>Registration fees</th>
     <th>Carbon footprint (tons of CO<sub>2</sub>)</th>
