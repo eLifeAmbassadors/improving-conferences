@@ -17,8 +17,8 @@ title: Home
     <th>Gender Balance/Diversity Statement</th>
     <th>Attendance cost</th>
     <th>Registration fees</th>
-    <th>Carbon footprint (tons of CO<sub>2</sub>)</th>
-    <th>Other carbon footprint (tons of CO<sub>2</sub>)</th>
+    <th>Carbon footprint <small> (tons of CO<sub>2</sub>)</small></th>
+    <th>Other carbon footprint <small>(tons of CO<sub>2</sub>)</small></th>
 
     <th>Society name</th>
     <th>Society members</th>
@@ -46,6 +46,7 @@ title: Home
      <th>Conference chair gender balance</th>
      <th>Environmental sustainability</th>
      <th>Public engagement</th>
+     <th>Sustainability initiatives</th>
 
 
   </tr>
@@ -90,7 +91,7 @@ title: Home
   <td>{{ conference.conference_chair_gender_balance }}</td>
   <td>{{ conference.environmental_sustainability }}</td>
   <td>{{ conference.public_engagement }}</td>
-
+  <td>{{ conference.sustainability_initiatives }}</td>
 
   </tr>
 {% endfor %}

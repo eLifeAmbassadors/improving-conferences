@@ -20,7 +20,7 @@ electonic_program: 'Yes and App(Guidebook) and the program was provided online o
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'Yes subsidized childcare given (Child/Dependent Care Grants The financial burden of child and adult dependent care affects the Society’s members. The impact can be so great that it often prevents attendance at meetings, especially for early career scientists or those at small institutions with limited funding. The AAS and its Divisions are committed to helping members with dependents attend meetings; therefore, members may apply for subsidized dependent care services during a meeting, for use either at the meeting location or at home.)'
-career_development: 'None'
+career_development: 'Yes (1.Introduction to Software Carpentry.  2.Teaching Science Thought and Practice 3. Everyday Anti-Racism: Tools and Ideas to Combat Racism in Astronomy Departments and Organizations.  4.Teaching for Equity. 5.Committee on Sexual Orienation and Gender Minorities (SGMA) Meet&Greet)'
 ecr_promotion_events: 'None'
 travel_awards: 'Yes (FAMOUS Travel Grant: FAMOUS (Funds for Astronomical Meetings: Outreach to Underrepresented Scientists) travel grants are awarded at a level of up to $1,000 to attend a single AAS meeting, at which the awardee will present her or his research. Priority will be given to members of historically underrepresented groups, such as scientists at small colleges, minorities, non-traditional students, and veterans, among others. The funding will not cover the meeting registration fee, but is intended to offset expenses for travel, meals, and lodging. Recipients of FAMOUS grants may not apply again until three years have passed.)'
 code_of_conduct: 'None'

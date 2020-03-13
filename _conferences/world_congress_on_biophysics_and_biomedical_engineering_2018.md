@@ -2,7 +2,7 @@
 layout: conference 
 name: 'World Congress on Biophysics and Biomedical Engineering'
 year: '2018'
-discipline: 'joint meeting of medical physicists, biomedical engineers and adjoining health care professionals'
+discipline: 'Medical physicists, biomedical engineers and adjoining health care professionals'
 total_years: '40'
 society_name: 'International Union for Physical and Engineering Sciences in Medicine(IUPESM), International Organization for Medical Physics (IOMP), International Federation for Medical and Biological Engineering (IFMBE), Česká společnost fyziků v medicíně (ČSFM) - Czech Association of Medical Physicists (CAMP), Česká společnost biomedicínského inženýrství a lékařské informatiky – Czech Society for Biomedical Engineering and Medical Informatics '
 society_members: '140000'

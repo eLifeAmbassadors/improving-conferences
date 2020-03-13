@@ -2,7 +2,7 @@
 layout: conference 
 name: 'Vector Born Infectious Disease meeting'
 year: '2020'
-discipline: 'Virology and Infectious Disease'
+discipline: 'Virology, Infectious Disease,ector-borne diseases to provide comprehensive, state-of-the-art information on vector biology and transmission, epidemiology and disease control, host defense and human immune responses to infection, diagnosis, pathogenesis and treatment, and vaccines and therapeutics'
 total_years: '1'
 society_name: 'The University of Texas Medical Branch, Nature Communications, and npj Vaccines'
 society_members: 'Not Applicable'

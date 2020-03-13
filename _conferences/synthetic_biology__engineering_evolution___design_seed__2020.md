@@ -35,5 +35,5 @@ environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://synbioconference.org/2020/registration-info'
-other_details: 'BEWARE OF HOTEL ROOM SCAM: Please use caution when making travel arrangement and researching information about the conference.  '
+other_details: 'BEWARE OF HOTEL ROOM SCAM: Please use caution when making travel arrangement and researching information about the conference. AIChE has code of Ethics as well: https://www.aiche.org/about/code-ethics  '
 ---

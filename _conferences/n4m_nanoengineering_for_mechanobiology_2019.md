@@ -1,6 +1,6 @@
 ---
 layout: conference 
-name: 'N4M (Nanoengineering for Mechanobiology)'
+name: 'N4M Nanoengineering for Mechanobiology'
 year: '2019'
 discipline: 'Mechanobiology'
 total_years: '5'
