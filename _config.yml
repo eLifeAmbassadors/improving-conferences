@@ -16,7 +16,7 @@
 email: azez.khan@gmail.com
 baseurl: "/improving-conferences" # the subpath of your site, e.g. /blog
 url: "https://elifeambassadors.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: khanaziz84
+twitter_username: ecrcentral
 github_username:  eLifeAmbassadors
 
 # Build settings
@@ -36,6 +36,7 @@ collections:
 # Site information
 
 title:  'Improving Conferences'
+tagline: 'A database for scientific conferences and their key features'
 url:  http://elifeambassadors.github.io/improving-conferences
 github:
   repo: https://github.com/eLifeAmbassadors/improving-conferences

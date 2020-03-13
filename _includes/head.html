@@ -6,10 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.name %}
-      {{ page.name }} &middot; {{ site.title }}
+    {% if page.title %}
+      {{ page.title }} &middot; {{ site.title }}: {{ site.tagline }}
     {% else %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }}: {{ site.tagline }}
     {% endif %}
   </title>
 
@@ -22,8 +22,13 @@
 
 
   <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-144-precomposed.png">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/public/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/public/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/public/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl }}/public/site.webmanifest">
+  <link rel="mask-icon" href="{{ site.baseurl }}/public/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="theme-color" content="#ffffff">
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}/atom.xml">
