@@ -1,6 +1,6 @@
 ---
 layout: conference 
-name: ' International Conference Plant Hormones & Other Growth Regulators'
+name: 'International Conference Plant Hormones & Other Growth Regulators'
 year: '2019'
 discipline: 'Plant Sciences'
 total_years: '14'
