@@ -1,6 +1,6 @@
 ---
 layout: conference 
-name: 'ISMB ISCB meeting'
+name: 'Intelligent Systems for Molecular Biology (ISMB) ISCB'
 year: '2018'
 discipline: 'Computational Biology'
 total_years: '26'

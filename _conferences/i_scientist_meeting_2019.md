@@ -2,7 +2,7 @@
 layout: conference 
 name: 'I Scientist meeting'
 year: '2019'
-discipline: 'Multidisciplinary: Conference on Gender, Career Paths and Networking'
+discipline: 'Multidisciplinary'
 total_years: '4'
 society_name: 'Not applicable'
 society_members: 'Not Applicable'

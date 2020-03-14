@@ -1,6 +1,6 @@
 ---
 layout: conference 
-name: 'ICML meeting'
+name: 'International Conference on Machine Learning (ICML)'
 year: '2018'
 discipline: 'Machine Learning, AI, Computational Biology'
 total_years: '36'

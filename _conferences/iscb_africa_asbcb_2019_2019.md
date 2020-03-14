@@ -2,9 +2,9 @@
 layout: conference 
 name: 'ISCB Africa ASBCB 2019'
 year: '2019'
-discipline: 'Bioinformatics and Computational Biolog'
+discipline: 'Computational Biology'
 total_years: '3'
-society_name: 'African Society for Bioinformatics and Computational Biolog'
+society_name: 'African Society for Bioinformatics and Computational Biology'
 society_members: '500'
 attendees: '300'
 venue: 'Kumasi, Ghana'

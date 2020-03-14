@@ -2,7 +2,7 @@
 layout: conference 
 name: 'GRC Family of meetings'
 year: '2018'
-discipline: 'Multiple Disciplines'
+discipline: 'Multidisciplinary'
 total_years: '55'
 society_name: 'Gordon Research Conferences a nonprofit Organization'
 society_members: 'Not Applicable, not a society'

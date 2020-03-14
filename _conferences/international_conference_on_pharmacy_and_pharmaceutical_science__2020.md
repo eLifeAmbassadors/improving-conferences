@@ -1,8 +1,8 @@
 ---
 layout: conference 
-name: 'ICPPS meeting'
+name: 'International Conference on Pharmacy and Pharmaceutical Science '
 year: '2020'
-discipline: 'International Conference on Pharmacy and Pharmaceutical Science '
+discipline: 'Pharmaceutical Science '
 total_years: '5'
 society_name: 'A forum for biologists, methods developers and computational modellers interested in understanding biology at single cell resolution'
 society_members: 'Not Applicable'

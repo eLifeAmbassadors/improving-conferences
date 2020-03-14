@@ -1,8 +1,8 @@
 ---
 layout: conference 
-name: 'ICBCB meeting'
+name: 'IEEE 8th International Conference on Bioinformatics and Computational Biology (ICBCB)'
 year: '2019'
-discipline: 'IEEE 8th International Conference on Bioinformatics and Computational Biology'
+discipline: 'Computational Biology'
 total_years: '7'
 society_name: 'Not Applicable'
 society_members: 'Not Applicable'

@@ -1,8 +1,8 @@
 ---
 layout: conference 
-name: 'ICKEM meeting'
+name: 'International Conference on Key Engineering Materials (ICKEM)'
 year: '2020'
-discipline: 'International Conference on Key Engineering Materials'
+discipline: 'Engineering Materials'
 total_years: '10'
 society_name: 'co-sponsored by IACSIT and Universidad Complutense, Spain'
 society_members: 'Not Applicable'

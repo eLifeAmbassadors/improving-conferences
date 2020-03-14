@@ -28,23 +28,13 @@
         {% endif %}
       {% endfor %}
 
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}" target="_blank">Project on GitHub</a></li>
     </ul>
 
 
     <ul class="sidebar-nav">
-      <hr>
-    <p>
-      {% assign numconference = 0 %}
-        {% for conference in site.conferences %}
-          {% assign numconference = numconference | plus: 1 %}
-      {% endfor %}
-      <small>
-      A list of {{ numconference }} national and international academic meetings in various disciplines for key features of inclusivity and sustainability and propose solutions to make conferences more modern, effective, equitable and intellectually productive for the research community and environmentally sustainable for our planet.
-    </small>
-
-    </p>
-      <hr>
+    <hr>
+    <li class="sidebar-nav-item"><a href="{{ site.github.repo }}" target="_blank">Source code on GitHub</a></li>
+    
     <li><small>Created by <a href="https://github.com/eLifeAmbassadors">eLife Community Ambassadors</a></small></li>
    </ul>
 

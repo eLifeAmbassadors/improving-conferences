@@ -2,7 +2,7 @@
 layout: conference 
 name: 'GeoEarth2020 meeting '
 year: '2020'
-discipline: 'World Congress on Geology & Earth Science'
+discipline: 'Geology & Earth Science'
 total_years: '2'
 society_name: 'Not Applicable'
 society_members: 'Not Applicable'

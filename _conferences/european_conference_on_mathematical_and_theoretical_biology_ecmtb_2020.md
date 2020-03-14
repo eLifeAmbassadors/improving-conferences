@@ -1,8 +1,8 @@
 ---
 layout: conference 
-name: 'ECMTB meeting'
+name: 'European Conference on Mathematical and Theoretical Biology (ECMTB)'
 year: '2020'
-discipline: 'European Conference on Mathematical and Theoretical Biology'
+discipline: 'Mathematical and Theoretical Biology'
 total_years: '12'
 society_name: 'Heidelberg University, a joint event organized by the European Society for Mathematical and Theoretical Biology (ESMTB) and the Society for Mathematical Biology (SMB)'
 society_members: '4000'

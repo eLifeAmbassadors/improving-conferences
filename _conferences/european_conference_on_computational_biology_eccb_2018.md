@@ -1,8 +1,8 @@
 ---
 layout: conference 
-name: 'ECCB meeting'
+name: 'European Conference on Computational Biology (ECCB)'
 year: '2018'
-discipline: 'Systems Biology'
+discipline: 'Computational Biology'
 total_years: '18'
 society_name: 'ISMB (Intelligent Systems for Molecular Biology)'
 society_members: '3,400'

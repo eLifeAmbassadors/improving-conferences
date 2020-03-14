@@ -1,8 +1,8 @@
 ---
 layout: conference 
-name: 'ICCAE meeting'
+name: 'International Conference on Computer and Automation Engineering (ICCAE)'
 year: '2020'
-discipline: 'International Conference on Computer and Automation Engineering'
+discipline: 'Computer and Automation Engineering'
 total_years: '12'
 society_name: 'Not Applicable'
 society_members: 'Not Applicable'

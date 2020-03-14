@@ -1,8 +1,8 @@
 ---
 layout: conference 
-name: 'RECOMB meeting'
+name: 'International Conference on Research in Computational Molecular Biology (RECOMB)'
 year: '2020'
-discipline: 'Molecular Biology'
+discipline: 'Computational Biology'
 total_years: '22'
 society_name: 'Research in Computational Molecular Biology, George Washington University in partnership with Cell systems'
 society_members: 'Not Applicable, not a society'

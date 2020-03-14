@@ -2,7 +2,7 @@
 layout: conference 
 name: 'Synthetic Biology for Natural Products Conference'
 year: '2019'
-discipline: 'The Interface of (Meta)Genomics, Synthetic Biology and Natural Product Discovery'
+discipline: 'Metagenomics, Synthetic Biology and Natural Product Discovery'
 total_years: '2'
 society_name: 'Fusion Conferences Limited'
 society_members: 'Not Applicable'

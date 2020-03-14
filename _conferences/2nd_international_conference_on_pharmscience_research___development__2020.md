@@ -2,7 +2,7 @@
 layout: conference 
 name: '2nd International Conference on PharmScience Research & Development '
 year: '2020'
-discipline: 'Pharmacology, Drug Discovery and Development, Pharmacovigilance and Drug Safety, Novel Drug Delivery Systems and Drug therapy, Pharmaceutical Nanotechnology, Drug Regulatory Affairs'
+discipline: 'Pharmaceutical Science'
 total_years: '2'
 society_name: 'Not Applicable'
 society_members: 'Not Applicable'
