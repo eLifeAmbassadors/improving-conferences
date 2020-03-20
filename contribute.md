@@ -7,7 +7,7 @@ title: Contribute
 
 If you're familiar with GitHub you can submit a pull request to add conference to the web site (or open an issue with the necessary information).
 
-### Grant information
+### Conference information
 
 Information for each conference is stored as YAML with fields for each key piece of information.
 
