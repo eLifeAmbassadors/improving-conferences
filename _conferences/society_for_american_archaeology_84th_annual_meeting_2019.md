@@ -20,7 +20,7 @@ electonic_program: 'Yes the program was provided online on the conference websit
 onsite_maternity: ''
 onsite_childcare: 'None'
 caregiver_grant: 'None'
-career_development: 'Yes (1.Teaching Integrity in Empirical Archaeology. 2.Culture Shifts: How to Improve Climate.  3.Go Figure: Submitting Publication-Ready  Artwork that Works)'
+career_development: 'Yes (1.Teaching Integrity in Empirical Archaeology. 2.Culture Shifts: How to Improve Climate.  3.Go Figure: Submitting Publication-Ready Artwork that Works)'
 ecr_promotion_events: 'Yes (Women’s Networking Reception)'
 travel_awards: 'None'
 code_of_conduct: 'https://www.saa.org/annual-meeting/submissions/anti-harassment-policy'

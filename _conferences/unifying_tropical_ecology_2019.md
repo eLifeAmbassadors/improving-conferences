@@ -20,7 +20,7 @@ electonic_program: 'Yes the program was provided online on the conference websit
 onsite_maternity: 'None'
 onsite_childcare: 'None, only a Family room but It is attendee parents responsibility to ensure children are accompanied by an adult at all times.'
 caregiver_grant: 'None'
-career_development: 'Yes ([1] Strengthen collaborations, communication, engagement and outreach between ecologists working in Africa and other ecologists from across the globe [2]Journal publishing for tropical ecologists – the essentials)'
+career_development: 'Yes (1. Strengthen collaborations, communication, engagement and outreach between ecologists working in Africa and other ecologists from across the globe     2. Journal publishing for tropical ecologists – the essentials)'
 ecr_promotion_events: 'None'
 travel_awards: 'Yes limited number (200 EUR given to up to 25 trainee members)'
 code_of_conduct: 'https://www.britishecologicalsociety.org/events/ute2019/code-of-conduct/'
