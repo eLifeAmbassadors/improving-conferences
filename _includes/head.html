@@ -6,8 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.title %}
-      {{ page.title }} &middot; {{ site.title }}: {{ site.tagline }}
+    {% if page.name %}
+      {{ page.name }} &middot; {{ site.title }}: {{ site.tagline }}
     {% else %}
       {{ site.title }}: {{ site.tagline }}
     {% endif %}
@@ -19,8 +19,6 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-
-
   <!-- Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/public/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/public/favicon-32x32.png">
