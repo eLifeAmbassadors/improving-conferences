@@ -50,6 +50,7 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://confcomec.akcongress.com/'
 other_details: ''
+code_of_ethics: ''
 ---
 ```
 

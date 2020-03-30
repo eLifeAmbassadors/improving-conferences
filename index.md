@@ -44,6 +44,7 @@ title: Home
     <th>Travel awards</th>
 
      <th>Code of conduct</th>
+     <th>Code of ethics</th>
      <th>Safety instructions</th>
      <th>Keynote speaker gender balance</th>
      <th>Speaker gender balance</th>
@@ -89,6 +90,7 @@ title: Home
   <td>{{ conference.travel_awards }}</td>
 
   <td>{{ conference.code_of_conduct }}</td>
+  <td>{{ conference.code_of_ethics }}</td>
   <td>{{ conference.safety_instructions }}</td>
   <td>{{ conference.keynote_gender_balance }}</td>
   <td>{{ conference.speaker_gender_balance }}</td>
