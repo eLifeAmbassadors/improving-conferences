@@ -38,6 +38,7 @@ career_development: 'None'
 ecr_promotion_events: 'None'
 travel_awards: 'None'
 code_of_conduct: 'None'
+code_of_ethics: ''
 safety_instructions: 'None'
 gender_balance: 'None'
 keynote_gender_balance: 'None'
@@ -50,7 +51,6 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://confcomec.akcongress.com/'
 other_details: ''
-code_of_ethics: ''
 ---
 ```
 

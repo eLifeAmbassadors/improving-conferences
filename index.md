@@ -20,11 +20,11 @@ title: Home
     <th>Year</th>
     <th>Total years</th>
     <th>Discipline</th>
-    <th>Gender Balance/Diversity Statement</th>
-     <th>Registration fees</th>
+    <th>Registration fees</th>
     <th>Attendance cost</th>   
     <th>Carbon footprint <small> (tons of CO<sub>2</sub>)</small></th>
     <th>Other carbon footprint <small>(tons of CO<sub>2</sub>)</small></th>
+    <th>Gender Balance/Diversity Statement</th>
 
     <th>Society name</th>
     <th>Society members</th>
@@ -66,11 +66,11 @@ title: Home
   <td>{{ conference.year }}</td>
   <td>{{ conference.total_years }}</td>
   <td>{{ conference.discipline }}</td>
-	<td>{{ conference.gender_balance }}</td>
   <td>{{ conference.registration_fee }}</td>
   <td>{{ conference.attendance_cost }}</td>
   <td>{{ conference.carbon_footprint }}</td>
   <td>{{ conference.other_carbon_footprint }}</td>
+  <td>{{ conference.gender_balance }}</td>
 
   <td>{{ conference.society_name }}</td>
   <td>{{ conference.society_members }}</td>
