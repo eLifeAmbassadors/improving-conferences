@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://events.eventzilla.net/e/australian-and-new-zealand-zebrafish-meeting-2138745529'
 other_details: ''
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

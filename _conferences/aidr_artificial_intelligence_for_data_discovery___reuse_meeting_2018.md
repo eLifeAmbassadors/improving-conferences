@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://events.library.cmu.edu/aidr2019/'
 other_details: ''
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

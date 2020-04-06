@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://www.waavp2019.com/regandhousing/registration/'
 other_details: ''
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

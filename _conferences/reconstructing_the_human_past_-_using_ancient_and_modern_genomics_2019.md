@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.embo-embl-symposia.org/symposia/2019/EES19-02/?_ga=2.268803121.171280564.1542700212-1750436656.1542700212'
 other_details: ''
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

@@ -36,5 +36,5 @@ public_engagement: 'Yes (https://eb2019.sciencesconf.org/resource/page/id/9)'
 sustainability_initiatives: 'None'
 conference_url: 'https://eb2019.sciencesconf.org/'
 other_details: ''
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

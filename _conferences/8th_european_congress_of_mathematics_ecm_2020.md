@@ -36,5 +36,5 @@ public_engagement: 'Yes Public lectures (6 Male lecturers, 1 Female lecturer)'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.8ecm.si/'
 other_details: 'Fraud alert warning!      There is an increasing number of fraudulent websites and travel agencies that impersonate 8ECM. While we do our best to protect our participants from scammers, their methods continuously evolve to look more authentic. We would like to alert all participants to be aware of possible scams and to strongly advise you to only use the official Hoteli Bernardin system for booking which you can access on this page to avoid any unpleasant experiences. Organizers of the 8ECM do not contact participants for confirmation of accommodation via phone and do not require any additional information regarding your payment of accommodation.  If you receive any suspicious calls or e-mails that claim to be the official housing agency for 8ECM 2020, please alert the Office of the Organizing Committee at 8ecm2020@famnit.upr.si'
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

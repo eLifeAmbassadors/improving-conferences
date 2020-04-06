@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://www.icais.org/html/program.html'
 other_details: 'This conference series typically involves over 300 participants from over 30 countries, representing academia, industry, government and non-government organizations and other stakeholders seeking opportunities for international cooperation and collaboration to address invasive species issues from a global perspective.'
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

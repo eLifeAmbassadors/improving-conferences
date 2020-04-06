@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.stowers.org/sites/default/files/src/src-devcellbio/#details'
 other_details: 'Stowers Research Conferences are biennial meetings that bring together researchers, faculty, and graduate students to inspire creative thought and collaboration in the basic sciences.'
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

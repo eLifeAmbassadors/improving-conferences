@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://pdsq5e.m.attendify.com/app/about/9hjyFFeAqowfVMzIG0'
 other_details: ''
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

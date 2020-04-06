@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'Yes (https://embs54.ucd.ie/front-page/useful-information/an-environmentally-conscious-symposium/): In keeping with our philosophy of conservation and sustainability, we have ensured that EMBS54 benefits from the following:     Close proximity to transportation hubs, public transport, hire bikes     Close proximity to accommodation, restaurants, activities     Local catering companies used to reduce transportation miles     Reusable tableware, no plastic bottles     Venue employs natural light     Recycling/composting facilities on campus     Minimal use of plastic – paper name badges, BYO lanyards     Digital alternatives to paper used wherever possible)'
 conference_url: 'https://embs54.ucd.ie/'
 other_details: ''
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://coursesandconferences.wellcomegenomecampus.org/our-events/single-cell-biology-2020/'
 other_details: 'https://coursesandconferences.wellcomegenomecampus.org/wp-content/uploads/2020/02/SCB-Programme.pdf'
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

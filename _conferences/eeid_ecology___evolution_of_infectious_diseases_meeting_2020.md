@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.eeidconference2020.org/'
 other_details: ''
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

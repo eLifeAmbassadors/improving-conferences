@@ -9,7 +9,8 @@ title: Home
 
 <h3>Improving Conferences: A database for scientific conferences and their key features</h3>
 <hr>
-<p> A list of {{ numconference }} national and international academic meetings in various disciplines for key features of inclusivity and sustainability and propose solutions to make conferences more modern, effective, equitable and intellectually productive for the research community and environmentally sustainable for our planet. </p>
+<p> A list of {{ numconference }} national and international academic meetings in various disciplines for key features of inclusivity and sustainability and propose solutions to make conferences more modern, effective, equitable and intellectually productive for the research community and environmentally sustainable for our planet. Read more details in the bioRxiv preprint <b><a href="https://doi.org/10.1101/2020.04.02.022079" target="_blank">Evaluating features of scientific conferences: A call for improvements</a></b> by Sarabipour et al.</p>
+
 
 <small>For more details pleace click the conference name.</small>
 

@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://vaccinescongress.vaccineconferences.com/'
 other_details: 'Over 2000 attendees from 40+ countries'
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

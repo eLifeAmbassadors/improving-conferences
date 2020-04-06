@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://atom.ubbcluj.ro/meco45/'
 other_details: 'The Conferences of the Middle European Cooperation in Statistical Physics (MECO) were initiated in 1974 with the aim of bridging the gap between the communities of scientists from the Eastern and Western blocks of Europe, separated by the iron curtain. Since then, MECO conferences have become the yearly itinerant reference meetings for the community of scientists who are active in the field of Statistical Physics in the broader sense, including modern interdisciplinary applications to biology, finance, information theory, and quantum computation.'
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

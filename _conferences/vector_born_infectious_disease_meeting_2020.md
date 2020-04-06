@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.nature.com/natureconferences/vectorborneid20/index.html'
 other_details: ''
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---

@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.nern.nl/NAEM2020'
 other_details: 'NERN is not a society, association or club and thus does not have members. It is a network of which all people working in ecology in the Netherlands can be part. Formally, the network is supported and driven by a collaboration of all Graduate Schools and institutes working in the field of ecology, evolution, and biodiversity.'
-code_of_ethics: 'None'
+code_of_ethics: ''
 ---
