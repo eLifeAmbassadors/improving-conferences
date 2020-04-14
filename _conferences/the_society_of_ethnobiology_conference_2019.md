@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'Yes (A note about recycling and waste reduction: We recognize that the very gathering of people from distant places is counter to reducing our carbon footprint; we struggle with balancing this fact against the huge value of meeting with our community face-to-face.  We also understand the value of small actions, even if they just empower us as individuals to take bigger and bolder actions.  We have tried in this conference to reduce excess by doing things like reducing packaging, sourcing localand/or organicfoods, using non-disposable or responsibly disposable cutlery and plates and cups, using previously used name tag holders, and video-recording sometalks for people to remotely access them.   We encourage all participants to pay careful attention to our recycling stations.  We welcome suggestions on how our Society’s conferences, and indeed our Society more generally, can be better global stewards.)'
 conference_url: 'https://ethnobiology.org/conference/conference-abstracts'
 other_details: 'None'
-code_of_ethics: ''
+code_of_ethics: 'Yes (https://ethnobiology.org/about-society-ethnobiology/ethics)'
 ---

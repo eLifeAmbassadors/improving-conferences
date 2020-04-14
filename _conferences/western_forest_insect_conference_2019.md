@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://wfiwc.org/content/next-meeting-edmonton-alberta-canada-april-27-30-2020'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://syncell2020.unm.edu/'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

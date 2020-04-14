@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://2018.phytobiomesconference.org'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

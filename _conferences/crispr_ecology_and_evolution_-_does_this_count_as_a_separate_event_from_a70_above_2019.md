@@ -1,11 +1,11 @@
 ---
 layout: conference 
-name: 'CRISPR ecology and evolution'
+name: 'CRISPR ecology and evolution - Does this count as a separate event from A70 above?'
 year: '2019'
 discipline: 'Ecology'
 total_years: '1'
 society_name: 'The Royal Society'
-society_members: '49,000'
+society_members: '49000'
 attendees: '200'
 venue: 'London, UK'
 frequency: 'Annual'
@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://royalsociety.org/science-events-and-lectures/2019/02/crispr-ecology-evolution/'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

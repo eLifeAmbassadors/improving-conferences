@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.grc.org/ecological-and-evolutionary-genomics-conference/2019/'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'https://www.grc.org/about/grc-policies-and-legal-disclaimers/'
 ---

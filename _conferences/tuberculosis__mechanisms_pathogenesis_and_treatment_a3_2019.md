@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://tks.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1627'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

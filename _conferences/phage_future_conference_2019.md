@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://phage-futures.com/events/phage-futures-2019#smooth-scroll-top'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

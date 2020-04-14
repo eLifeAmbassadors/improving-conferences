@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.keystonesymposia.org/KS/Online/Events/2020X3/Details.aspx?EventKey=2020X3'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'Yes (https://www.keystonesymposia.org/ks/Online/About/Policies/Online/About_Us/Policies.aspx)'
 ---

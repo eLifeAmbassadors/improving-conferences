@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.biophysics.org.au/meetings.html'
 other_details: 'http://aups.org.au/Meetings/201912/images/AuPS_ASB_2019percent20Conferencepercent20handbook.pdf https://link.springer.com/article/10.1007/s12551-019-00519-0'
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

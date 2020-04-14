@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.liquidbiopsysummit.com/'
 other_details: 'HOTEL SCAM ALERT It has come to our attention that some of our conference participants are being targeted in a hotel scam. We do not utilize any third party hotel booking services. If you are contacted by any company other than Cambridge Innovation Institute (CII) or any of CII’s divisions (including Cambridge Healthtech Institute and Cambridge EnerTech) please do not do business with them. These companies may ask for advance payment, and should you contract with them, you may be unable to confirm, make changes or receive a refund, and reservations are often canceled without advance notice.'
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://research.med.helsinki.fi/cancerbio/IVBM/'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

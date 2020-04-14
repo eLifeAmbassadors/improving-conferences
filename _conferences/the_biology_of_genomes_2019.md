@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=19'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

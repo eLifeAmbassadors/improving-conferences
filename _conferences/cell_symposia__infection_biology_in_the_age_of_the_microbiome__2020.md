@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://www.cell-symposia.com/infectionbiology-2020/default.asp'
 other_details: 'Scam Alert here: https://www.elsevier.com/__data/assets/pdf_file/0017/711431/25314_EHS_Warning_CA.pdf    and    WARNING - SCAM ALERT: WARNING - SCAM ALERT: Exhibitor Housing Services (EHS), Exhibitor Housing Management (EHM) & Business Travel Management (BTM). Note to conference delegates: Please read the warning regarding a fraudulent travel and hotel booking scheme. All accommodation bookings should be made directly through the conference hotel(s), using the accommodation booking link on the website where specified.'
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---

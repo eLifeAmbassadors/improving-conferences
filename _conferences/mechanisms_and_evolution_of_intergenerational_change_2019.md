@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://coursesandconferences.wellcomegenomecampus.org/our-events/mechanisms-and-evolution-of-intergenerational-change-2019/'
 other_details: ''
-code_of_ethics: ''
+code_of_ethics: 'None'
 ---
