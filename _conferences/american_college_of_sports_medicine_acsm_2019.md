@@ -35,6 +35,6 @@ environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://www.acsm.org/annual-meeting/future-past-meetings/2019-orlando-fl'
-other_details: ''
+other_details: '-'
 code_of_ethics: 'Yes (http://www.acsm.org/acsm-membership/membership/join/acsm-member-code-of-ethics)'
 ---

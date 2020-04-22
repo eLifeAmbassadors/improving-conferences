@@ -25,7 +25,7 @@ ecr_promotion_events: 'Social Events: ECR professionals reception, Student recep
 travel_awards: 'Yes (The Systematics, Evolution, and Biodiversity (SysEB) Section leadership invites SysEB undergraduate and graduate students to submit applications for the SysEB Student Research Travel Award Program (SRTA). Travel awards provide funding for student fieldwork and/or research travel to other institutions to enhance research projects. Successful proposals from graduate students will be funded through support from the SysEB Section; top-ranked proposals from graduate students will be recognized and funded separately by the SysEB Student Research Endowment (SRE). Typical award amounts are approximately $1,000-$1,500. Payment of the award will occur upon completion of travel as reimbursement. Students must provide evidence of travel (copy of boarding pass, hotel receipts, etc.) and copies of collecting and export permits (if applicable). Travel must be completed within a year of the award date.)'
 code_of_conduct: 'https://www.entsoc.org/conduct'
 safety_instructions: 'None'
-gender_balance: 'Yes a statement but does not specify speaker equity or diversity :https://www.entsoc.org/about_esa/diversity-and-inclusion-statement'
+gender_balance: 'None'
 keynote_gender_balance: '13 Men'
 speaker_gender_balance: 'Defined Same as Keynote speaker.'
 invited_gender_balance: 'No information available online.'

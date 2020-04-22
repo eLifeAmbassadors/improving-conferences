@@ -35,6 +35,6 @@ environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.toxicology.org/events/am/AM2019/index.asp'
-other_details: ''
+other_details: '-'
 code_of_ethics: 'Yes and a good one (https://www.toxicology.org/about/vp/code-of-ethics.asp)'
 ---

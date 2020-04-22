@@ -20,7 +20,7 @@ electonic_program: 'Yes the program was provided online on the conference websit
 onsite_maternity: 'None'
 onsite_childcare: 'None '
 caregiver_grant: 'None'
-career_development: 'Yes ( 1. “Coping with pressure during PhD studies” by Dr. Hendrik  Huthoff            2.“Statistical evaluation and analysis – How not to lie with your data” by Dr. Sascha Brunke           3.“Balancing scientific career and family life” by Prof. Dr. Miriam Agler-Rosenbaum and Dr. Matthew Agler            4. Iuliia Ferling, an elife ambassador, will give a workshop about good scientific practice and the reproducibility of research data – feel free to join.)'
+career_development: 'Yes (1. “Coping with pressure during PhD studies” by Dr. Hendrik  Huthoff 2.“Statistical evaluation and analysis – How not to lie with your data” by Dr. Sascha Brunke 3.“Balancing scientific career and family life” by Prof. Dr. Miriam Agler-Rosenbaum and Dr. Matthew Agler 4. Iuliia Ferling, an elife ambassador, will give a workshop about good scientific practice and the reproducibility of research data – feel free to join.)'
 ecr_promotion_events: 'It is an ECR conference'
 travel_awards: 'None '
 code_of_conduct: 'None'

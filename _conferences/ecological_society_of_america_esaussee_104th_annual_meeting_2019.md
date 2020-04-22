@@ -25,7 +25,7 @@ ecr_promotion_events: 'Yes (ESA Annual Meeting Diversity and Inclusion Scholarsh
 travel_awards: 'Yes offers Travel awards for Trainees with Financial needs'
 code_of_conduct: 'Yes (https://esa.org/louisville/code-of-conduct/)'
 safety_instructions: 'None'
-gender_balance: 'Yes but no specifics on speaker gender equity or diversity(https://www.esa.org/about/esa-diversity-statement/)'
+gender_balance: 'None'
 keynote_gender_balance: '1 Man: 1 Woman'
 speaker_gender_balance: '2 Women'
 invited_gender_balance: 'Not Applicable to this conference.'

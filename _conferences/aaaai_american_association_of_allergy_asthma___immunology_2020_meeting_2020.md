@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://annualmeeting.aaaai.org/'
 other_details: 'Virtually due to COVID-19 pandemic: https://www.aaaai.org/Announcements/COVID-Mar-8'
-code_of_ethics: 'None'
+code_of_ethics: 'Yes (https://www.aaaai.org/Aaaai/media/MediaLibrary/PDFpercent20Documents/About/AAAAI-Code-of-Ethics-Revised-11-10-2018.pdf)'
 ---

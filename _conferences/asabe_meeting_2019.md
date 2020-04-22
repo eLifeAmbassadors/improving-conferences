@@ -25,7 +25,7 @@ ecr_promotion_events: 'Yes (1. The Graduate Student Research Award (GSRA) Compet
 travel_awards: 'None'
 code_of_conduct: 'Yes'
 safety_instructions: 'None'
-gender_balance: 'YEs but nothing is mentioned on speaker gender equity and diversity (https://www.asabe.org/About-Us/Public-Affairs/Statement-on-Membership-Diversity)'
+gender_balance: 'Yes but nothing is mentioned on speaker gender equity and diversity (https://www.asabe.org/About-Us/Public-Affairs/Statement-on-Membership-Diversity)'
 keynote_gender_balance: '1 Man'
 speaker_gender_balance: 'Not Applicable to this meeting.'
 invited_gender_balance: 'Not Applicable to this meeting.'

@@ -25,7 +25,7 @@ ecr_promotion_events: 'Yes (1. Undergraduate Networking Session 2.Early Career A
 travel_awards: 'Yes (1. Travel Awards for Minorities Only  a limited number of $575 travel grants (SPBs Minority Affairs Committee is offering a limited number of Recognition Travel Awards for students, postdocs, and faculty who are themselves members of groups underrepresented in the US scientific workforce and/or who are directly supporting the education and professional development of students in such groups.  2. Travel Awards for Plant Biology 2020 from the Primarily Undergraduate Institutions Section)'
 code_of_conduct: 'https://plantbiology.aspb.org/code-of-conduct/'
 safety_instructions: 'None'
-gender_balance: 'Yes a diversity statement is available (https://aspb.org/wp-content/uploads/2016/05/Position-Statement-on-Diversity.pdf)'
+gender_balance: 'None'
 keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: 'Not Applicable to this meeting.'
 invited_gender_balance: 'Not Applicable to this meeting.'

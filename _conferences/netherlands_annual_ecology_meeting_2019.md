@@ -20,7 +20,7 @@ electonic_program: 'Yes the program was provided online on the conference websit
 onsite_maternity: 'None'
 onsite_childcare: 'None '
 caregiver_grant: 'None'
-career_development: 'Yes (Postdoc Workshop: Identifying and Tackling Postdoc Challenges Workshop: Transfer your science into news)'
+career_development: 'Yes (Postdoc Workshop: Identifying and Tackling Postdoc Challenges, Workshop: Transfer your science into news)'
 ecr_promotion_events: 'None'
 travel_awards: 'None'
 code_of_conduct: 'None'

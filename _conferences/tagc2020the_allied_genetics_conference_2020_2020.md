@@ -25,7 +25,7 @@ ecr_promotion_events: 'Yes Professional development activities: 1. Poster Awards
 travel_awards: 'Yes (1.GSA Undergraduate Travel Awards 2.TAGC Travel Awards 3.TAGC Travel Awards – New Faculty members 4.FASEB DREAM Mentored Poster/Platform Presenter Award)'
 code_of_conduct: 'https://genetics-gsa.org/tagc-2020/conference-code-of-conduct/'
 safety_instructions: 'None'
-gender_balance: 'Yes (https://genetics-gsa.org/tagc-2020/conference-code-of-conduct/)'
+gender_balance: 'None'
 keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: '9 Men: 6 Women'
 invited_gender_balance: 'Not Applicable to this meeting.'

@@ -25,7 +25,7 @@ ecr_promotion_events: 'Yes (1. Trainee Chapter(https://www.americanagingassociat
 travel_awards: 'Yes '
 code_of_conduct: 'Yes (https://drive.google.com/file/d/1v2zgxQM7z5A02Dv2GwjQG3yctAmGcSfD/view)'
 safety_instructions: 'None'
-gender_balance: 'None'
+gender_balance: 'None, there is an statement on ongoing diversity efforts based on an NIH NOA but nothing specific on gender equity and diversity of speakers (https://drive.google.com/file/d/14H_sXQp9NS_xEEUfMBT10FW5Wjodn9uP/view)'
 keynote_gender_balance: 'Defined same as Plenary in this meeting.'
 speaker_gender_balance: '14 Men: 10 Women'
 invited_gender_balance: '4 Men: 10 Women'

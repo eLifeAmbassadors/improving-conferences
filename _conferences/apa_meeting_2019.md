@@ -36,5 +36,5 @@ public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://convention.apa.org/'
 other_details: 'The American Psychological Association (APA) is the largest scientific and professional organization of psychologists in the United States, with over 118,000 members, including scientists, educators, clinicians, consultants, and students. Over 12,000 attend the annual meeting from 50 countries.'
-code_of_ethics: 'None'
+code_of_ethics: 'Yes (https://www.apa.org/ethics/code/)'
 ---

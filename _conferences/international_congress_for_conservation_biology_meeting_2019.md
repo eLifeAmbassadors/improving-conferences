@@ -25,7 +25,7 @@ ecr_promotion_events: 'Yes (1. ICCB 2019 also offers a wealth of early career pr
 travel_awards: 'Yes'
 code_of_conduct: 'https://conbio.org/mini-sites/iccb-2019/registration/code-of-conduct/'
 safety_instructions: 'Yes Has assigned safety officer (SAFETY OFFICERSCB is committed to the safety of all delegates. We have hired, Ruth Beach, professional mediator, to serve as ICCB 2019’s safety officer.  If you need to report a violation of the code of conduct please take these steps to make a report:• Delegates can go to the ICCB Registration and Information Desk (when it is staffed); they will contact Ms. Beach to make a report.• Delegates can send an email to safemeeting@conbio.org with their name, contact information and a brief description of the concern.• After hours, delegates call +1 (571)-354-0947 for emergency situations.)'
-gender_balance: ' Yes; Inclusion statement not specific to speakers though; https://indd.adobe.com/view/1e86adc1-d444-42a5-8737-368864f49687'
+gender_balance: ' Yes; Inclusion statement; https://indd.adobe.com/view/1e86adc1-d444-42a5-8737-368864f49687'
 keynote_gender_balance: 'Not Applicable to this conference.'
 speaker_gender_balance: '2 Women: 5 Men'
 invited_gender_balance: 'Not Applicable to this conference.'

@@ -22,7 +22,7 @@ onsite_childcare: 'Yes (GRC offers guest and child registration packages that al
 caregiver_grant: 'Yes (50percent discount on registeration)'
 career_development: 'None'
 ecr_promotion_events: 'accompanying GRS meeting is dedicated to ECR talks only.'
-travel_awards: 'Car Strom Underrepresented Minority Fellowship: Eligibility: must be:     Graduate student, postdoc, faculty or research scientist     Hispanic or Latino, American Indian or Alaska Native, Black or African American, Native Hawaiian or Other Pacific Islander     U.S. Citizen or permanent resident with a Green Card     Currently working at a U.S. institution     Is attending a GRC for the first time'
+travel_awards: 'The Car Strom Underrepresented Minority Fellowship: Eligibility: must be: Graduate student, postdoc, faculty or research scientist, Hispanic or Latino, American Indian or Alaska Native, Black or African American, Native Hawaiian or Other Pacific Islander, U.S. Citizen or permanent resident with a Green Card, Currently working at a U.S. institution, Is attending a GRC for the first time'
 code_of_conduct: 'https://www.grc.org/about/grc-policies-and-legal-disclaimers/'
 safety_instructions: 'None'
 gender_balance: 'Diversity efforts for undergaduates not speaker balance: https://www.grc.org/about/grc-diversity-initiatives/'

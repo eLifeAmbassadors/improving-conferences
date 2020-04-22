@@ -35,6 +35,6 @@ environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.endocrine.org/endo2019'
-other_details: ''
+other_details: '-'
 code_of_ethics: 'Yes (https://www.endocrine.org/-/media/endocrine/files/about/codeofethics.pdf)'
 ---

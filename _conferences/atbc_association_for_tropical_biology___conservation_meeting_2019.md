@@ -25,7 +25,7 @@ ecr_promotion_events: 'Yes (1. The Bacardi Award is open to those who have recei
 travel_awards: 'Yes (ATBC provides tiered membership options for students and regular members regardless of economic status, and  provides  a  limited  number  of  travel  grants  to  annual  meetings.  We  aim  to  be  supportive,  inclusive,  participatory, transparent, and multidisciplinary in all of our activities and events. We have worked hard to support participation of Malagasy and African students, researchers, and practitioners in this conference.)'
 code_of_conduct: 'None'
 safety_instructions: 'None'
-gender_balance: 'Yes but does not include speaker gender equity and diversity position statememt: https://tropicalbiology.org/diversity-and-inclusion/'
+gender_balance: 'None'
 keynote_gender_balance: '4 Men: 2 Women'
 speaker_gender_balance: 'Same meaning as Keynote in this meeting.'
 invited_gender_balance: 'Not Applicable to this conference.'
