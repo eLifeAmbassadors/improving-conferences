@@ -9,13 +9,23 @@ attendees: '300'
 carbon_footprint: '600'
 society_name: 'North American Vascular Biology Organization (NAVBO)'
 society_members: '500'
+<<<<<<< HEAD
+=======
+attendees: '300'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Helsinki, Finland'
 frequency: 'Biennial'
 sponsors: 'Jenny and anntti wihuri Foundation, aerpio pharmaceuticals, Barncancer Fonden, Regeneron, Herantis, Lilly, PerkinsElmer, novo nordisk, KVBM, Relia Tech, JCI, JCI insight, Pfizer, SANOFI, LMI(Lymphatic Malformation Institute), NAVBO, AstraZeneca, Promega, Genentech, Journal of Experimental Medicine, 10X Genomics, EMBO, ESC (European Society of Cariology), HSL|HRT, Finnair'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '150'
+=======
+registration_fee: '$250-$600'
+carbon_footprint: '450'
+other_carbon_footprint: '90'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

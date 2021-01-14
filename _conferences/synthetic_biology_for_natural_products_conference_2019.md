@@ -2,6 +2,10 @@
 layout: conference 
 name: 'Synthetic Biology for Natural Products Conference'
 year: '2019'
+<<<<<<< HEAD
+=======
+discipline: 'Metagenomics, Synthetic Biology and Natural Product Discovery'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '2'
 discipline: 'Metagenomics, Synthetic Biology and Natural Product Discovery'
 registration_fee: '$700-$1755'

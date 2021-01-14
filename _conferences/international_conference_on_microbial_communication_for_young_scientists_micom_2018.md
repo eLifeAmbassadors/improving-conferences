@@ -3,8 +3,13 @@ layout: conference
 name: 'International Conference on Microbial Communication for Young Scientists (MiCom)'
 year: '2018'
 total_years: '7'
+<<<<<<< HEAD
 discipline: 'Microbial Communication'
 registration_fee: '$83 - $121'
+=======
+society_name: 'Not Applicable'
+society_members: 'Not Applicable'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 attendees: '160'
 carbon_footprint: '320'
 society_name: 'Not Applicable'

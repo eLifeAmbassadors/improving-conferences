@@ -20,7 +20,11 @@ electonic_program: 'Yes scientific program was available on conference website b
 onsite_maternity: 'None'
 onsite_childcare: 'Yes (There is childcare available during the meeting, and this requires pre-registration.)'
 caregiver_grant: 'None'
+<<<<<<< HEAD
 career_development: 'Yes (1.Tell Everyone About Your Science: A Workshop in Communicating to Friends, Family, and Legislators.  2. A Hands-on Workshop on Science Education Research)'
+=======
+career_development: 'Yes (1.Tell Everyone About Your Science: A Workshop in Communicating to Friends, Family, and Legislators.  2.A Hands-on Workshop on Science Education Research)'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 ecr_promotion_events: 'None'
 travel_awards: 'None'
 code_of_ethics: 'None'

@@ -2,6 +2,10 @@
 layout: conference 
 name: 'GeoEarth2020 meeting '
 year: '2020'
+<<<<<<< HEAD
+=======
+discipline: 'Geology & Earth Science'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '2'
 discipline: 'Geology & Earth Science'
 registration_fee: '$499-$1399'

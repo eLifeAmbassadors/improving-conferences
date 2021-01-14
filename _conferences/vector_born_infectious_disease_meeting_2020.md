@@ -2,6 +2,10 @@
 layout: conference 
 name: 'Vector Born Infectious Disease meeting'
 year: '2020'
+<<<<<<< HEAD
+=======
+discipline: 'Virology & Infectious Disease'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '1'
 discipline: 'Virology & Infectious Disease'
 registration_fee: '$200-$675'

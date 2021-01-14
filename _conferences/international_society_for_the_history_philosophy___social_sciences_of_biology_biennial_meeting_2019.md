@@ -2,6 +2,10 @@
 layout: conference 
 name: 'International Society for the History, Philosophy & Social Sciences of Biology biennial meeting'
 year: '2019'
+<<<<<<< HEAD
+=======
+discipline: 'History, Philosophy & Social Sciences of Biology '
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '14'
 discipline: 'History, Philosophy & Social Sciences of Biology '
 registration_fee: '$85-$310'
@@ -9,13 +13,23 @@ attendees: '1500'
 carbon_footprint: '3000'
 society_name: 'International Society for the History, Philosophy & Social Sciences of Biology'
 society_members: '2000'
+<<<<<<< HEAD
+=======
+attendees: '1500'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Oslo, Norway'
 frequency: 'Biennial'
 sponsors: 'The Research Council of Norway, University of Oslo, Centre for Ecological and Evolutionary Synthesis • Department of Biosciences • Institute of Health and Society • Museum of Cultural History • Science Studies Colloquium • TIK Centre for Technology, Innovation and Culture'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '750'
+=======
+registration_fee: '$85-$310'
+carbon_footprint: '2250'
+other_carbon_footprint: '450'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on the conference website.'
 onsite_maternity: 'None '
 onsite_childcare: 'None (Not Free or ON-site:ISHPSSB is family friendly and welcomes children at its conferences. We therefore welcome children as part of the audience during the 2019 conference in Oslo. The whole city is also rather children-friendly and kids are literally enjoying all aspects of life with their families. Breastfeeding in public is a well-established norm despite some recent discussion. The organizers will also provide a dedicated room for taking care of children’s needs. For those who wish to contact local childcare services, the following can be contacted. Participants are advised that July is the high holiday season in Norway, so contact with the childcare services should be made well in advance of the conference in order to ensure staff availability. The conference organizers are not endorsing or taking responsibility for the childcare providers.)'

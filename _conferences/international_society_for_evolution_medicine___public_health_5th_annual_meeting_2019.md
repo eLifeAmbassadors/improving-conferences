@@ -9,13 +9,26 @@ attendees: '1000'
 carbon_footprint: '2000'
 society_name: 'International Society for Evolution, Medicine & Public Health '
 society_members: '2000'
+<<<<<<< HEAD
 venue: 'Zurich, Switzerland'
 frequency: 'Annual '
 sponsors: 'FNSNF: Swiss National Science Foundation, Zurich Center for Integrative Human Physiology, University of Zurich URPP Evolution in Action, Stadt Zurich, Kanton Zürich'
+=======
+attendees: '1000'
+venue: 'Zurich, Switzerland'
+frequency: 'Annual '
+sponsors: 'FNSNF: Swiss National Science Foundation,   Zurich Center for Integrative Human Physiology, University of Zurich URPP Evolution in Action, Stadt Zurich, Kanton Zürich'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 virtual_option: 'None'
 digital_archives: 'No recorded talks were avliable but Presentation slides and posters were (access with ID only, persumably society membership was required).'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '500'
+=======
+registration_fee: 'No information available'
+carbon_footprint: '1500'
+other_carbon_footprint: '300'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes online program was available online on the conference website in interactive and .pdf formats.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
@@ -23,15 +36,23 @@ caregiver_grant: 'None'
 career_development: 'None'
 ecr_promotion_events: 'Yes (1. Omenn Prize of $5000 for the best article published in the previous calendar year in any scientific journal on a topic related to evolution in the context of medicine and public health. 2.The George C. Williams Prize  of $5,000 is awarded each year to the  first author of the most significant article published in the Society’s flagship journal, Evolution, Medicine and Public Health.)'
 travel_awards: 'None'
+<<<<<<< HEAD
 code_of_ethics: 'None'
 code_of_conduct: ' Yes (https://isemph.org/2019-Meeting)'
+=======
+code_of_conduct: 'None'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 safety_instructions: 'None'
 gender_balance: 'None'
 keynote_gender_balance: '2 Men: 2 Women'
 speaker_gender_balance: '3 Men'
 invited_gender_balance: 'Not Applicable to this conference.'
 session_chair_gender_balance: '24 Men: 10 Women'
+<<<<<<< HEAD
 conference_chair_gender_balance: 'Hosting committee: 3 Men: 4 Women, Program Committee: 5 Men: 6 Women'
+=======
+conference_chair_gender_balance: 'Hosting committee:3 Men: 4 Women, Program Committee: 5 Men: 6 Women'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

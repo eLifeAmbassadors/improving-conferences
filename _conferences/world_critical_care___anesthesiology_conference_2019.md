@@ -3,8 +3,13 @@ layout: conference
 name: 'World Critical Care & Anesthesiology Conference'
 year: '2019'
 total_years: '2'
+<<<<<<< HEAD
 discipline: 'Health care, Anesthesiology '
 registration_fee: '$599-$1349'
+=======
+society_name: 'Neurocritical Care Society (NCS) and Maldives Anaesthesiologists Association'
+society_members: 'over 2700'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 attendees: '3000'
 carbon_footprint: '6000'
 society_name: 'Neurocritical Care Society (NCS) and Maldives Anaesthesiologists Association'

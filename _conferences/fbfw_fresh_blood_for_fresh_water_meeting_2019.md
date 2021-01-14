@@ -21,7 +21,11 @@ onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'
 career_development: 'Yes (Science Communication)'
+<<<<<<< HEAD
 ecr_promotion_events: 'Yes Prizes for Trainees (1. Participants favourite talk.  2. Participants favourite poster.  3. Best in microbiology (selected by Mia Bengtsson).  4. Best in Experimental Ecology  5. Best in Community Ecology.  6. Best talk and best poster (selection by the organizers))'
+=======
+ecr_promotion_events: 'Yes Prizes for Trainees (1. Participants favourite talk.  2. Participants favourite poster.  3. Best in microbiology (selected by Mia Bengtsson).  4. Best in Experimental Ecology 5. Best in Community Ecology.  6. Best talk and best poster (selection by the organizers))'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 travel_awards: 'None'
 code_of_ethics: 'None'
 code_of_conduct: 'None'

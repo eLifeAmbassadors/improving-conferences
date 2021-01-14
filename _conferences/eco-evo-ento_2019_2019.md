@@ -3,19 +3,31 @@ layout: conference
 name: 'Eco-Evo-Ento 2019'
 year: '2019'
 total_years: '2'
+<<<<<<< HEAD
 discipline: 'Ecology, Evolution, Entomology'
 registration_fee: '$225-$715'
 attendees: '1000'
 carbon_footprint: '2000'
 society_name: 'Canadian Society for Ecology & Evolution, the Entomological Society of Canada, the Acadian Entomological Society'
 society_members: '2000'
+=======
+society_name: 'Canadian Society for Ecology & Evolution, the Entomological Society of Canada, and the Acadian Entomological Society'
+society_members: '2000'
+attendees: '1000'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Fredericton, Canada'
 frequency: 'Annual'
 sponsors: 'University of New Brunswick (UNB), IRVING, Plant Products, New Phytologist Trust, Atlantic Association for Research in the Mathematical Sciences, Project Learning Tree Canada, Sustainable Forestry Initiative, BASF, CORTEVA agriscience, Ecology and Evolution (an open access journal), Syngenta, The Royal Society Publishing, Forest Protection Limited, Canadian Society for Ecology and Evolution'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '500'
+=======
+registration_fee: '$225-$715'
+carbon_footprint: '1500'
+other_carbon_footprint: '300'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes online program was available online on the conference website.'
 onsite_maternity: 'Yes (Children accompanied by adults are welcome at the conference, as is (of course) breastfeeding anywhere. Please ask a volunteer or organizer if we can help with something. An infant care room is available in the Hilton, just across the skywalk from the convention centre. Caregivers can get keycards from the front desk to keep for the duration of the conference. The room will have comfortable chairs, cribs, and a minifridge. Please take advantage for any infant care needs (or to store your infant-care supplies).'
 onsite_childcare: 'None'

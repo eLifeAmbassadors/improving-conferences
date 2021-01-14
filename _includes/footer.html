@@ -19,10 +19,8 @@
         $(document).ready( function () {
             $('#data_table').DataTable({
                 "pageLength": 50,
-                rowReorder: {
-                    selector: 'td:nth-child(2)'
-                },
                 responsive: true,
+
                 language: {
                   searchPlaceholder: "Search Conferences",
                 },
@@ -33,7 +31,8 @@
                 "autoWidth": true,
                 "lengthChange": true,
                 "ordering": true,
-                columnDefs:[{targets:[3,4,9,10,11,12,13,14],className:"truncate"}],
+                columnDefs:[{targets:[9,10,11,12,13,14],className:"truncate"},
+                ],
                     createdRow: function(row){
                        var td = $(row).find(".truncate");
                        td.attr("title", td.html());
@@ -42,6 +41,14 @@
             });
         } );
     </script>
+
+<script type="text/javascript">
+    $(document).ready(function () {             
+  $('.dataTables_filter input[type="search"]').css(
+     {'width':'300px','display':'inline-block'}
+  );
+});
+  </script>
 
 <style type="text/css">
     .truncate {

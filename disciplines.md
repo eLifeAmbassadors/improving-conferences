@@ -57,7 +57,7 @@ List all conferences by discipline
 		 <a href="{{ site.baseurl }}{{ conference.url }}">
 		 {{ conference.name }}
 		 </a>
- 		 <small>{{ conference.year }}, <em>{{ conference.venues }}</em></small>
+ 		 <small>{{ conference.year }}, <em>{{ conference.venue }}</em></small>
 		 </li>
 		 {% endif %}
 	 {% endfor %}

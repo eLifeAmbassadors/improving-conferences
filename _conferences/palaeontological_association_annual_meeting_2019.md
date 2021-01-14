@@ -9,13 +9,23 @@ attendees: '800'
 carbon_footprint: '1600'
 society_name: 'Palaeontological Association'
 society_members: '1100'
+<<<<<<< HEAD
+=======
+attendees: '800'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Valencia, Spain'
 frequency: 'Annual'
 sponsors: 'Instituto Cavanilles de Biodiversidad y Biología Evolutiva, Facultad de Ciencias Biológicas, Generalitat Valenciana, Transmitting Science, Instituto Geológico y Minero de España, Thermo Fisher Scientific, The Geological Society Publishing House, Taylor and Francis Group, Combined Academic Publishers Ltd, Sociedad Española de Paleontología, Ajuntament de València,   Nature Ecology and Evolution, Museo de Ciencias Naturales de Valencia, The Paleontological Institute, Royal Society Publishing,   Biology — MDPI, Museu de la Universitat de València: Història Natural'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '400'
+=======
+registration_fee: 'No information available'
+carbon_footprint: '1200'
+other_carbon_footprint: '240'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program was available online as a .pdf file on the conference website.'
 onsite_maternity: 'Yes (There are baby changing facilities on campus, and a nursing room can be made available as required.)'
 onsite_childcare: 'Yes (A nearby nursery can accommodate some young children (between 1 and 5 years of age) during the days of the main meeting for those who enquired during the registration period.)'
@@ -31,7 +41,11 @@ keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: 'Not Applicable to this meeting.'
 invited_gender_balance: 'Not Applicable to this meeting.'
 session_chair_gender_balance: '6 Men: 5 Women'
+<<<<<<< HEAD
 conference_chair_gender_balance: 'Organizing committee co-chairs: 2 Men, Organizing committee: 6 Men: 5 Women'
+=======
+conference_chair_gender_balance: 'Organizing committee co-chairs: 2 Men,   organizing committee: 6 Men: 5 Women'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'Yes (public event: Three Lectures)'
 sustainability_initiatives: 'None'

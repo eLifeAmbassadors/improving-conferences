@@ -9,13 +9,23 @@ attendees: '128'
 carbon_footprint: '256'
 society_name: 'Complex Trait Community'
 society_members: '200'
+<<<<<<< HEAD
+=======
+attendees: '100'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'San Diego, California, United States'
 frequency: 'Annual'
 sponsors: 'GENCOVE (https://gencove.com/), iGenomX(https://igenomx.com/), and 10xGenomics(https://secureservercdn.net/198.71.233.138/uh7.aba.myftpupload.com/wp-content/uploads/2019/01/10Genomix.png).'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '64'
+=======
+registration_fee: '$0 (Free public event)'
+carbon_footprint: '150'
+other_carbon_footprint: '30'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'None'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

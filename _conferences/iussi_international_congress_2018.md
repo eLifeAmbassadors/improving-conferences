@@ -9,9 +9,16 @@ attendees: '1000'
 carbon_footprint: '2000'
 society_name: 'International Union for the Study of Social Insects'
 society_members: '1093'
+<<<<<<< HEAD
 venue: 'Congress held at international locations, section meetings held locally, Guarujá, Brazil'
 frequency: 'Congress is quadrennial while section meetings are annual'
 sponsors: 'Springer Publishing, FABELAH, FAPESP, CAPES, CNPq'
+=======
+attendees: '1000'
+venue: 'Congress held at international locations, section meetings held locally, Guarujá, Brazil'
+frequency: 'Congress is quadrennial  while section meetings are annual'
+sponsors: 'Springer Publishing, FABELAH, FAPESP,CAPES, CNPq'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'

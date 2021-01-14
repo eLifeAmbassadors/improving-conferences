@@ -2,6 +2,7 @@
 layout: conference 
 name: 'Intelligent Systems for Molecular Biology (ISMB) ISCB'
 year: '2020'
+<<<<<<< HEAD
 total_years: '27'
 discipline: 'Computational Biology'
 registration_fee: '$480-$1185'
@@ -19,12 +20,35 @@ other_carbon_footprint: '1000'
 electonic_program: 'Yes Electronic program book was available on the conference website.'
 onsite_maternity: 'Yes (A private room is available during the conference for nursing mothers and others with sensitive personal needs. Please note that this room is not staffed and contains tables, chairs, and a waste basket. A restroom is located nearby.)'
 onsite_childcare: 'None (ISCB is unfortunately unable to provide childcare services. Attendees are encouraged to contact their hotel concierge to arrange individual or group childcare. Please check with your hotel well in advance of your arrival date. Please note that it is the responsibility of the parent(s) and guardians requesting child care services to screen caregivers and to make a determination as to the appropriateness of the caregiver. ISCB does not screen childcare services and assumes no responsibility or liability with respect to these services.)'
+=======
+discipline: 'Computational Biology'
+total_years: '27'
+society_name: 'International Society of Computational Biology'
+society_members: '3400'
+attendees: '2000'
+venue: 'Montreal, Canada'
+frequency: 'Annual'
+sponsors: ''
+virtual_option: 'None'
+digital_archives: 'None'
+attendance_cost: ' $2000-$4000'
+registration_fee: '$480-$1185'
+carbon_footprint: '3000'
+other_carbon_footprint: '600'
+electonic_program: 'Yes Electronic program book was available on the conference website.'
+onsite_maternity: 'Yes (A private room is available during the conference for nursing mothers and others with sensitive personal needs. Please note that this room is not staffed and contains tables, chairs, and a waste basket. A restroom is located nearby. )'
+onsite_childcare: 'None (ISCB is unfortunately unable to provide childcare services. Attendees are encouraged to contact their hotel concierge to arrange individual or group childcare. Please check with your hotel well in advance of your arrival date.  Please note that it is the responsibility of the parent(s) and guardians requesting child care services to screen caregivers and to make a determination as to the appropriateness of the caregiver. ISCB does not screen childcare services and assumes no responsibility or liability with respect to these services.)'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 caregiver_grant: 'None'
 career_development: 'None'
 ecr_promotion_events: 'ISCB Student Council (https://www.iscbsc.org/) aim to promote the caree development of young computational biologists through their events. The Student Council conducts coordinated ECR events with ISCB-related events (ISMB, ECCB, ASBCB, ISCB-LA), such as the Student Council Symposium (SCS), European Student Council Symposium (ESCS), Student Council Symposium - Latin America (LA-SCS) and Student Council Symposium - Africa (SCS Africa)'
 travel_awards: 'Yes (ISCB provides Travel Fellowship funds exclusively for ISCB student and post doctoral members to attend the annual Pacific Symposium on Biocomputing (PSB), Conference on Research in Computational Molecular Biology (RECOMB), Conference on Intelligent Systems for Molecular Biology (ISMB), the European Conference on Computational Biology (ECCB), and APBioNets International Conference on Computational Biology (InCoB). With the exception of PSB which is regularly held the first week of January in Hawaii, these other conferences typically move around geographically each year, and each are separated by several weeks or several months so as not to overlap. If you are a student or post doc presenting a paper or poster at any of these conferences and you need travel support funds to attend the conference please complete the application process as outlined on each of the conference websites (see conference calendar for links to the respective upcoming conference websites). ISCB fellowships to the annual ISMB conference are primarily supported through grant funds from U.S. government agencies, including the National Science Foundation (NSF), the Department of Energy (DOE), and in some cases the National Institutes of Health/National Institute of General Medical Sciences (NIH/NIGMS). When ISMB is held in conjunction with ECCB additional fellowship funding may be supported through European agencies. As a member society of the Federation of American Societies for Experimental Biology (FASEB), all of ISCBs Society-run annual conferences, ISMB, Rocky, CSHALS, GLBIO, ISCB-Africa, ISCB-Asia, and ISCB-Latin America are also eligible for the Minority Access to Research Careers (MARC) travel fellowship program supported by a long- term grant from the NIH. The MARC funds are exclusively designated for minority scientists who are U.S. citizens or permanent residents (green card holders). Full information on the MARC funding program can be found on the FASEB website at www.faseb.org. Due to limited funds we regret that it is generally not possible to fund all travel fellowship applicants to the above conferences.) '
+<<<<<<< HEAD
 code_of_ethics: 'Yes (https://www.iscb.org/iscb-policy-statements/iscb-code-of-ethics-and-professional-conduct)'
 code_of_conduct: 'Yes (https://www.iscb.org/codeofconduct/file)'
+=======
+code_of_conduct: 'https://www.iscb.org/ismb2020-general/codeofconduct'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 safety_instructions: 'None'
 gender_balance: 'None'
 keynote_gender_balance: '3 Women: 2 Men'

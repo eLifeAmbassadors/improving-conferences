@@ -2,6 +2,10 @@
 layout: conference 
 name: 'World Congress on Biophysics and Biomedical Engineering'
 year: '2018'
+<<<<<<< HEAD
+=======
+discipline: 'Medical physicists, biomedical engineers and adjoining health care professionals'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '40'
 discipline: 'Medical physicists, biomedical engineers and adjoining health care professionals'
 registration_fee: '$217-$955'

@@ -8,7 +8,12 @@ registration_fee: '$100-$900'
 attendees: '13000'
 carbon_footprint: '26000'
 society_name: 'European Society of Clinical Microbiology and Infectious Diseases (ESCMID)'
+<<<<<<< HEAD
 society_members: '37000'
+=======
+society_members: '37,000'
+attendees: '13,000'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Meetings around Europe, Madrid, Spain'
 frequency: 'Annual'
 sponsors: 'Pfizer, MSD, ACCELERATE Diagnostics, Biomerieux, Beckman Coulter, Burker, Luminex, nabriva, Seegene, Cepheid, Correvio, Angelini, BD, Gilead, Abbott, COPAN, GenePOC, illumine, QIAGENE, Siemens Healthineers, Hologic, Infecto Pharma, GenMarkDc, MENARINI, BAYER, Chimerix, Astellas, Melinta, Shionogi, ThermoFisher Scientific, Shire'
@@ -21,9 +26,14 @@ onsite_maternity: 'Lactation room available'
 onsite_childcare: 'None'
 caregiver_grant: 'None'
 career_development: 'None'
+<<<<<<< HEAD
 ecr_promotion_events: 'Yes (1. Young Investigator Award; ESCMID Trainee Association, in 2020, ESCMID will again hold the popular TAE Trainees Day. This session offers a great platform for young professionals to speak to renowned experts in the fields of CM and ID. Participants can learn more about opportunities available to them to further their career and to get inspiration from experts who were once also at the beginning of their career paths. It is also the perfect opportunity to build stronger links between senior experts and future professionals. A popular part of the Trainees Day is the round-table session, which gives younger professionals the chance to talk directly to experts in an informal setting. Participants need to be 40 years of age or younger and registered for ECCMID 2020 in order to be eligible for participation. Those older than 40 and those without a voucher/confirmation mail will not be admitted to the round table sessions. Note: all conference distinguished Awards and Young Investigator Awards (7) in 2018 went to men.  2. For the 30th edition of ECCMID, we would like to highlight 30 outstanding young scientists 30 years of age or younger.)'
 travel_awards: 'Yes (Awarded 90 travel grants,Only for ESCMID Members)'
 code_of_ethics: 'None'
+=======
+ecr_promotion_events: 'Yes (1. Young Investigator Award; ESCMID Trainee Association, n 2020, ESCMID will again hold the popular TAE Trainees Day. This session offers a great platform for young professionals to speak to renowned experts in the fields of CM and ID. Participants can learn more about opportunities available to them to further their career and to get inspiration from experts who were once also at the beginning of their career paths. It is also the perfect opportunity to build stronger links between senior experts and future professionals. A popular part of the Trainees Day is the round-table session, which gives younger professionals the chance to talk directly to experts in an informal setting. Participants need to be 40 years of age or younger and registered for ECCMID 2020 in order to be eligible for participation. Those older than 40 and those without a voucher/confirmation mail will not be admitted to the round table sessions. Note: all conference distinguished Awards and Young Investigator Awards (7) in 2018 went to men.  2.For the 30th edition of ECCMID, we would like to highlight 30 outstanding young scientists 30 years of age or younger.)'
+travel_awards: 'Yes (Awared 90 travel grants,Only for ESCMID Members)'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'

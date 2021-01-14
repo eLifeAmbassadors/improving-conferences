@@ -15,7 +15,13 @@ sponsors: 'Lund University, The Scandinavian Association for Pollination Ecology
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $1500-$3000'
+<<<<<<< HEAD
 other_carbon_footprint: '125'
+=======
+registration_fee: '$0 (Free public event)'
+carbon_footprint: '375'
+other_carbon_footprint: '75'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program was available online on the conference website.'
 onsite_maternity: 'None '
 onsite_childcare: 'None '

@@ -9,13 +9,23 @@ attendees: '2400'
 carbon_footprint: '4800'
 society_name: 'Society for Integrative and Comparative Biology (SICB)'
 society_members: '3000'
+<<<<<<< HEAD
+=======
+attendees: '2400'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Tampa, USA'
 frequency: 'Annual'
 sponsors: 'SABLE Systems International Wiley, ARBOR ASSAYS, Aurora Scientific, Friday Harbor Laboratories, XCitex, BioOne Complete'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '1200'
+=======
+registration_fee: '$115-$515'
+carbon_footprint: '3600'
+other_carbon_footprint: '720'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on the conference website in .pdf and interactive versions.'
 onsite_maternity: 'None'
 onsite_childcare: 'Yes (fully insured onsite) This year the child care at the annual meeting will be free and provided by Preferred Sitters, the same group that has provided care at SICB since 2015. They are fully insured, and dedicated to providing an enjoyable environment for your child. Registration by December 4th is required to participate. To register your child or children, or for questions, please us.'

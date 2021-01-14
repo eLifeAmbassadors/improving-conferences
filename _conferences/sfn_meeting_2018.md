@@ -12,18 +12,33 @@ society_members: '37000'
 venue: 'United States & Canada'
 frequency: 'Annual'
 sponsors: 'NIH, Eli Lilly, Jansen, Biogen, SfN, Molecular Devices, Nancy Rutledge Zahniiser Fund, Bernice Grrafstein, Burroughs Wellcome Fund, Gruber, KOPF, AMGEN, eNeuro, Millipore Sigma'
+<<<<<<< HEAD
 virtual_option: '2 past conference so far only: https://www.sfn.org/meetings/virtual-conferences/upcoming-conferences'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
 other_carbon_footprint: '15000'
 electonic_program: 'Yes provided App, online program book, daily program books, meeting planner and curated itineraries'
 onsite_maternity: 'Yes but Parents and guardians are responsible for providing infant care supplies. The infant care room will be unsupervised. SfN will not be responsible for accidents or injuries that may occur in this room.'
+=======
+virtual_option: '2 conference so far only: https://www.sfn.org/meetings/virtual-conferences/upcoming-conferences'
+digital_archives: 'None'
+attendance_cost: ' $2000-$4000'
+registration_fee: ' $75-600'
+carbon_footprint: '45000'
+other_carbon_footprint: '9000'
+electonic_program: 'Yes provided App, online program book, daily program books, Meeting planner and curated itineraries'
+onsite_maternity: 'Yes but Parents and guardians are responsible for providing infant care supplies. The infant care room will be unsupervised. SfN will not be responsible for accidents or injuries that may occur in this room'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 onsite_childcare: 'Yes for 6 months-12 year children: The service provider, KiddieCorp, is a national firm with more than 20 years of experience in on-site conference child care. KiddieCorp services will provide attendees with flexibility in their meeting schedules and a reliable, affordable and trustworthy option for child care during the annual meeting.'
 caregiver_grant: 'None'
 career_development: 'Yes (1.Teaching Computation in Neuroscience  2. Optimize Your Grant Application: News You Can Use From the NIH  3. The Art of Building a Career  4. Advancing Your Career Through Effective Science Writing for the Public and Creating Eye-Catching Research Statements   5. Building a Neuroscience Career at a Teaching Focused Institution   6. Neuroscience Departments and Programs Workshop - Hiring and Promoting Faculty in the Era of Team Science   7. Science Management  8. Becoming a Resilient Scientist  9. Navigating Team Science  10. Bringing Genetic Diversity to Neuroscientific Research  11.How to Thrive as a Woman in Neuroscience  12.Getting Creative with Course-Based Research Experiences to Enhance Scholarship and Generate Publishable Data  13. Integrating Research and Teaching at Primarily Undergraduate Institutions  14. Imposter Syndrome: Confronting the Career Development Monster Hiding Under the Bed  15. Reproducibility for Everyone  16. Preparing for Your Career Away From the Bench: Essential Skills for Navigating Your Career Transition)'
 ecr_promotion_events: 'A Graduate Student and Postdoctoral Fellow Reception'
+<<<<<<< HEAD
 travel_awards: 'Yes (1. Trainee Professional Development Award: For undergraduate students, graduate students, and postdoctoral fellows. Includes free registration and $1,000 - $2,000   2. Undergraduate Brain Awareness Travel Award: This award recognizes an undergraduate student who is involved in Brain Awareness Week. Includes free conference registration and a $750 travel stipend.  3. Science Journalism Student Award: For undergraduate or graduate students. Includes mentorship and covers travel expenses.)'
 code_of_ethics: 'https://www.sfn.org/membership/professional-conduct/sfn-ethics-policy'
+=======
+travel_awards: 'Yes (1. Trainee Professional Development Award: For undergraduate students, graduate students, and postdoctoral fellows. Includes free registration and $1,000 - $2,000   2. Undergraduate Brain Awareness Travel Award: This award recognizes an undergraduate student who is involved in Brain Awareness Week. Includes free conference registration and a $750 travel stipend.  3. Science Journalism Student Award: For undergraduate or graduate students. Includes mentorship and covers travel expenses.'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'https://www.sfn.org/membership/professional-conduct/code-of-conduct-at-sfn-events.'
 safety_instructions: 'None'
 gender_balance: 'None'

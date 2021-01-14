@@ -2,6 +2,10 @@
 layout: conference 
 name: '24th Symposium of Myrmecology'
 year: '2019'
+<<<<<<< HEAD
+=======
+discipline: 'Myrmecology'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '24'
 discipline: 'Myrmecology'
 registration_fee: '$38-$162'
@@ -9,13 +13,23 @@ attendees: '300'
 carbon_footprint: '600'
 society_name: 'International Union for the Study of Social Insects (IUSSI)'
 society_members: 'Not Applicable'
+<<<<<<< HEAD
+=======
+attendees: '300'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Belo Horizonte, Brazil'
 frequency: 'Annual'
 sponsors: 'Springer publishing group, ABELHA, FAPESP, CNPq, '
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '150'
+=======
+registration_fee: '$38-$162'
+carbon_footprint: '450'
+other_carbon_footprint: '90'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program was available online on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

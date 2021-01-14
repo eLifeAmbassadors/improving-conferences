@@ -22,8 +22,12 @@ onsite_childcare: 'None'
 caregiver_grant: 'None'
 career_development: 'None'
 ecr_promotion_events: 'None'
+<<<<<<< HEAD
 travel_awards: 'None'
 code_of_ethics: 'None'
+=======
+travel_awards: 'No'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'

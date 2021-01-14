@@ -2,6 +2,7 @@
 layout: conference 
 name: 'ECFG15 (15th European Conference on Fungal Genetics)'
 year: '2020'
+<<<<<<< HEAD
 total_years: '15'
 discipline: 'Fungal Genetics'
 registration_fee: '$271-$704'
@@ -16,22 +17,49 @@ virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
 other_carbon_footprint: '500'
+=======
+discipline: 'Fungal Genetics'
+total_years: '15'
+society_name: 'Not applicable'
+society_members: 'Not Applicable'
+attendees: '1000'
+venue: 'Rome, Italy'
+frequency: 'Biennial'
+sponsors: 'Elsevier publishing group, Syngenta, Sapienza Universite Di Roma. Novozymes, FEMS (Federation of European Microbiological Soceties)'
+virtual_option: '?'
+digital_archives: '?'
+attendance_cost: ' $2000-$4000'
+registration_fee: '$271-$704'
+carbon_footprint: '1500'
+other_carbon_footprint: '300'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'
 career_development: 'None'
 ecr_promotion_events: 'None'
+<<<<<<< HEAD
 travel_awards: 'Yes (The FEMS grant will allow the ECFG Organizing Committee to financially support a maximum of 20 participants. The selected participants will receive 400 euro each to cover travel and accommodation expenses: Eligibility: be a member of a FEMS Member Society* or be recommended by such a member be an Early Career Scientist**, be an Active Microbiologist, be presenting author at the meeting (oral or poster).  '
 code_of_ethics: 'None'
+=======
+travel_awards: 'Yes (The FEMS grant will allow the ECFG Organizing Committee to financially support a maximum of 20 participants. The selected participants will receive 400 euro each to cover travel and accommodation expenses: Eligibility:   be a member of a FEMS Member Society* or be recommended by such a member     be an Early Career Scientist**     be an Active Microbiologist     be presenting author at the meeting (oral or poster)  '
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'
 keynote_gender_balance: '4 Men: 1 Woman'
+<<<<<<< HEAD
 speaker_gender_balance: '10 Men: 5 Women'
 invited_gender_balance: 'Workshop invited speakers: 66 Men: 43 Women'
 session_chair_gender_balance: 'Plenary session chairs: 4 Men: 2 Women, Satelite Workshop Chairs: 12 Men: 8 women'
 conference_chair_gender_balance: 'Organizing committee: 4 Men: 1 Woman, International scientific Committee: 19 Men: 4 Women, Italian Scientific Committee: 17 Men: 8 Women'
+=======
+speaker_gender_balance: '12 Men: 5 Women'
+invited_gender_balance: 'Workshop invited speakers: 66 Men:43 Women'
+session_chair_gender_balance: 'Plenary session chairs: 4 Men: 2 Women.    Satelite Workshop Chairs: 12 Men: 8 women'
+conference_chair_gender_balance: 'Organizing committee: 4 Men: 1 Woman'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

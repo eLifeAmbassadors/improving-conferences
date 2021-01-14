@@ -2,6 +2,7 @@
 layout: conference 
 name: 'CNS2020 meeting'
 year: '2020'
+<<<<<<< HEAD
 total_years: '27'
 discipline: 'Cognitive Sciences'
 registration_fee: '$180-$580'
@@ -9,21 +10,41 @@ attendees: '2000'
 carbon_footprint: '4000'
 society_name: 'Cognitive Neuroscience Society'
 society_members: '3000'
+=======
+discipline: 'Cognitive Sciences'
+total_years: '27'
+society_name: 'Cognitive Neuroscience Society'
+society_members: '3000'
+attendees: '2,000'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Boston, MA, USA'
 frequency: 'Annual'
 sponsors: 'The Kavli Foundation'
 virtual_option: 'This conference was not held in Boston, was instead held virtually due to COVID-19 pandemic.'
 digital_archives: 'Only Keynote lectures from previous meeting years available.'
+<<<<<<< HEAD
 attendance_cost: ' $2000-$4000'
 other_carbon_footprint: '1000'
+=======
+attendance_cost: ' $2000-$4001'
+registration_fee: '$180-$580'
+carbon_footprint: '3000'
+other_carbon_footprint: '600'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes (Program book available on conference website as .pdf file.)'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'
+<<<<<<< HEAD
 career_development: 'Yes (1.Need to Know News from NIH about Grant Applications and Opportunities.  2.CNS Trainee Professional Development Panel)'
 ecr_promotion_events: 'Yes (Young Investigator Award for early career faculty)'
 travel_awards: 'Yes (Graduate Student Awards and the Post-Doctoral Fellow Awards to cover travel expenses)'
 code_of_ethics: 'None'
+=======
+career_development: 'Yes (1.Need to Know News from NIH about Grant Applications and Opportunities.  2.CNS TRAINEE PROFESSIONAL DEVELOPMENT Panel)'
+ecr_promotion_events: 'Yes (Young Investigator Award for early career faculty)'
+travel_awards: 'Yes (Graduate Student Awards and the Post-Doctoral Fellow Awards to cover travel expenses)'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'Yes (https://www.cogneurosociety.org/code-of-conduct-2/)'
 safety_instructions: 'None'
 gender_balance: 'None'
@@ -36,5 +57,9 @@ environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'https://www.cogneurosociety.org/'
+<<<<<<< HEAD
 other_details: 'Note March 2020: CNS 2020 will proceed as a virtual conference later this spring, with the dates to be announced soon: It is not taking place on March 14-17, 2020. Virtual conference planning is progressing well, and more details are forthcoming. Deep thanks to the plenary and award speakers, symposia chairs, and speakers, as well as the CNS Trainee Association, who have overwhelmingly stepped up to provide their talks for the virtual meeting. We have contracted to use a single, professional virtual platform that presents the talks, symposia, and panels in a regular meeting style, including live chat and other options for interaction. Poster presenters will have high-quality customizable virtual poster booths where they can present their posters, including short optional video presentations and live chat. Exhibitors will have access to “exhibitor booths,” with options that include live chat and other methods for interaction.'
+=======
+other_details: 'Note March 2020:CNS 2020 will proceed as a virtual conference later this spring, with the dates to be announced soon: It is not taking place on March 14-17, 2020.  Virtual conference planning is progressing well, and more details are forthcoming. Deep thanks to the plenary and award speakers, symposia chairs, and speakers, as well as the CNS Trainee Association, who have overwhelmingly stepped up to provide their talks for the virtual meeting.  We have contracted to use a single, professional virtual platform that presents the talks, symposia, and panels in a regular meeting style, including live chat and other options for interaction. Poster presenters will have high-quality customizable virtual poster booths where they can present their posters, including short optional video presentations and live chat. Exhibitors will have access to “exhibitor booths,” with options that include live chat and other methods for interaction.'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 ---

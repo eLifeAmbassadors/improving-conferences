@@ -20,8 +20,13 @@ electonic_program: 'Yes the program was provided online on the conference websit
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'
+<<<<<<< HEAD
 career_development: 'Yes (1. Teaching Integrity in Empirical Archaeology. 2. Culture Shifts: How to Improve Climate. 3. Go Figure: Submitting Publication-Ready Artwork that Works)'
 ecr_promotion_events: 'Yes (1. Women’s Networking Reception  2. The Ethics Bowl is a debate competition for undergraduate and graduate students where teams from different universities compete by debating solutions to the ethical dilemmas archaeologists face in our day-to-day lives. Each year, hypothetical cases are developed using real-life experiences and suggestions from academic, CRM, and avocational archaeologists around the world. Ethics Bowl teams then formulate and defend reactions and solutions to these ethical dilemmas using their academic knowledge of numerous ethical guidelines and laws, as well as their personal research and fieldwork experiences. Judges drawn from professional and eminent archaeologists grade the teams on their responses, throw them curveball questions that extend or change key components of the cases, and decide which teams advance to the final round and compete for prizes. It’s an awesome experience and a great opportunity to practice ethical decision making before being placed in a hard situation in real life. Judges regularly comment that Ethics Bowl contestants demonstrate stronger ethical decision making skills than many working archaeologists have sometimes shown.)'
+=======
+career_development: 'Yes (1.Teaching Integrity in Empirical Archaeology. 2.Culture Shifts: How to Improve Climate.  3.Go Figure: Submitting Publication-Ready Artwork that Works)'
+ecr_promotion_events: 'Yes (Women’s Networking Reception)'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 travel_awards: 'None'
 code_of_ethics: 'Ethics Bowl (contest/information session:https://www.saa.org/annual-meeting/ethics-bowl), Soceity Code of Ethics (https://www.saa.org/career-practice/ethics-in-professional-archaeology)'
 code_of_conduct: 'https://www.saa.org/annual-meeting/submissions/anti-harassment-policy'
@@ -31,7 +36,11 @@ keynote_gender_balance: 'No information available online'
 speaker_gender_balance: 'No information available'
 invited_gender_balance: 'Not Applicable to this meeting.'
 session_chair_gender_balance: '163 Women: 144 Men'
+<<<<<<< HEAD
 conference_chair_gender_balance: 'Conference president: 1 Man, local advisory chair: 1 Man, Annual meeting program chair: 1 Man, Program committee: 23 Men: 9 Women'
+=======
+conference_chair_gender_balance: 'conf president: 1 Man, local advisory chair: 1 Man, Annual meeting program chair: 1 Man, Program committee: 23 Men: 9 Women'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

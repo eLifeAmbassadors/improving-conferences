@@ -2,7 +2,9 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>{{ site.title }}</h1>
+      <!--
       <p class="lead">{{ site.description }}</p>
+    -->
     </div>
 
     <ul class="sidebar-nav">
@@ -26,12 +28,15 @@
         {% endif %}
       {% endfor %}
 
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>
     </ul>
 
+
     <ul class="sidebar-nav">
-    <li>Created by <a href="https://github.com/eLifeAmbassadors">eLife Ambassadors</a></li>
-    <li>Powered by <a href="https://elifesciences.org/community">eLife</a></li>
+    <hr>
+    <li class="sidebar-nav-item"><a href="{{ site.github.repo }}" target="_blank">Source code on GitHub</a></li>
+    
+    <li><small>Created by <a href="https://github.com/eLifeAmbassadors">eLife Community Ambassadors</a></small></li>
+   </ul>
 
   </div>
 </div>

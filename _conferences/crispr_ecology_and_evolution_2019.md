@@ -9,13 +9,23 @@ attendees: '200'
 carbon_footprint: '400'
 society_name: 'The Royal Society'
 society_members: '49000'
+<<<<<<< HEAD
+=======
+attendees: '200'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'London, UK'
 frequency: 'Annual'
 sponsors: 'No information available online.'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '100'
+=======
+registration_fee: '$0 (Free public event)'
+carbon_footprint: '300'
+other_carbon_footprint: '60'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

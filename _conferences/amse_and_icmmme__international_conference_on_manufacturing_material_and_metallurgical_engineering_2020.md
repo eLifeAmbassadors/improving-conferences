@@ -1,6 +1,6 @@
 ---
 layout: conference 
-name: 'AMSE meeting (It is co-located with ICMMME conference (The 5th International Conference on Manufacturing, Material and Metallurgical Engineering))'
+name: 'AMSE and ICMMME ( International Conference on Manufacturing, Material and Metallurgical Engineering)'
 year: '2020'
 discipline: 'Advanced materials science and engineering'
 total_years: '5'

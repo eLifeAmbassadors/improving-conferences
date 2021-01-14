@@ -9,12 +9,17 @@ attendees: '2000'
 carbon_footprint: '4000'
 society_name: 'International Congress for Conservation Biology'
 society_members: '3000'
+<<<<<<< HEAD
+=======
+attendees: '2000'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Kuala Lumpur, Malaysia'
 frequency: 'Biennial'
 sponsors: 'ATS(Advanced Telemetry System), Biji Biji Ethical Fashions, BirdLife International, #BreakFreeFromPlasti, British Ecological Society, CENERGI-SEA SDN BHD'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '1000'
 electonic_program: 'Yes the program was provided online on the conference website plus and App'
 onsite_maternity: 'Yes (There is a lounge will be available for nursing mothers. The comfortable area is equipped with lockable doors, furniture, refrigerator, separate bathroom, and power outlets to use for pumping sessions. Please bring outlet converters if needed.)'
@@ -22,11 +27,27 @@ onsite_childcare: 'None (However, baby sitting services are available at the hot
 caregiver_grant: 'None'
 career_development: 'Yes (1. What editors and reviewers are (not) expecting to find in your submission.  2. Early career perspectives on the future of conservation.)'
 ecr_promotion_events: 'Yes (1. ICCB 2019 also offers a wealth of early career programming including launching the ICCB First-Time Delegate Mentoring Program which pairs first time delegates those who have participated in past Congresses and will share experiences, provide guidance, and facilitate key networking opportunities.  Career Night! provides opportunities to participate in mock interviews and have your CV reviewed, have a professional head shot photograph taken, and meet with NGO, university, and industry leaders who are recruiting for current and future job openings. 2. Early Career Conservationist Award For achievements in conservation by professionals early in their careers.)'
+=======
+registration_fee: '$249-$735'
+carbon_footprint: '3000'
+other_carbon_footprint: '600'
+electonic_program: 'Yes the program was provided online on the conference website plus and App'
+onsite_maternity: 'Yes (There is a lounge will be available for nursing mothers. The comfortable area is equipped with lockable doors, furniture, refrigerator, separate bathroom, and power outlets to use for pumping sessions. Please bring outlet converters if needed.)'
+onsite_childcare: 'None'
+caregiver_grant: 'None'
+career_development: 'Yes (1. What editors and reviewers are (not) expecting to find in your submission.  2. Early career perspectives on the future of conservation.)'
+ecr_promotion_events: 'Yes (1. ICCB 2019 also offers a wealth of early career programming including launching the ICCB First-Time Delegate Mentoring Program which pairs first time delegates those who have participated in past Congresses and will share experiences, provide guidance, and facilitate key networking opportunities.  Career Night! provides opportunities to participate in mock interviews and have your CV reviewed, have a professional head shot photograph taken, and meet with NGO, university, and industry leaders who are recruiting for current and future job openings.     2. Early Career Conservationist Award For achievements in conservation by professionals early in their careers.)'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 travel_awards: 'Yes'
 code_of_ethics: 'https://conbio.org/about-scb/who-we-are/code-of-ethics'
 code_of_conduct: 'https://conbio.org/mini-sites/iccb-2019/registration/code-of-conduct/'
+<<<<<<< HEAD
 safety_instructions: 'Yes Has assigned safety officer (SAFETY OFFICERSCB is committed to the safety of all delegates. We have hired, Ruth Beach, professional mediator, to serve as ICCB 2019’s safety officer.  If you need to report a violation of the code of conduct please take these steps to make a report:• Delegates can go to the ICCB Registration and Information Desk (when it is staffed); they will contact Ms. Beach to make a report.• Delegates can send an email to safemeeting@conbio.org with their name, contact information and a brief description of the concern.• After hours, delegates call a number for emergency situations.)'
 gender_balance: ' Yes; Inclusion statement; https://indd.adobe.com/view/1e86adc1-d444-42a5-8737-368864f49687'
+=======
+safety_instructions: 'Yes Has assigned safety officer (SAFETY OFFICERSCB is committed to the safety of all delegates. We have hired, Ruth Beach, professional mediator, to serve as ICCB 2019’s safety officer.  If you need to report a violation of the code of conduct please take these steps to make a report:• Delegates can go to the ICCB Registration and Information Desk (when it is staffed); they will contact Ms. Beach to make a report.• Delegates can send an email to safemeeting@conbio.org with their name, contact information and a brief description of the concern.• After hours, delegates call +1 (571)-354-0947 for emergency situations.)'
+gender_balance: 'None'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 keynote_gender_balance: 'Not Applicable to this conference.'
 speaker_gender_balance: '2 Women: 5 Men'
 invited_gender_balance: 'Not Applicable to this conference.'
@@ -34,7 +55,11 @@ session_chair_gender_balance: 'Not Applicable to this conference.'
 conference_chair_gender_balance: '1 Man: 1 Woman'
 environmental_sustainability: 'None'
 public_engagement: 'None'
+<<<<<<< HEAD
 sustainability_initiatives: 'Yes (CARBON OFFSETAt SCB, we know that the impacts of climate change are already affecting the planet in unprecedented ways. With many of our members involved in the fight against climate change, and with climate change continuing to threaten biodiversity, we are committed to mitigating the impact that travel to and from ICCB 2019 will have on carbon emissions. Together with our partners at South Pole, we have reserved up to 4,000t of carbon offsets for ICCB 2019 to be used in our selected carbon offset projects; Borneo Forest Protection, Malaysia – Preserving Borneo’s richly diverse tropical forests and Keo Seima Wildlife Sanctuary, Cambodia. The Borneo Forestry Project in Malaysia protects and rehabilitates 25,000 hectares of degraded rainforest in the area of Sabah via tree planting and sustainable forest restoration activities.Keo Seima Wildlife Sanctuary (REDD+) conserves 166,983 hectares of the Seima Protection Forest, preventing deforestation and degradation and reducing forest and wildlife crime through law enforcement increases local species populations. The project also funds local community development, improving numeracy and literacy levels and encouraging locals to profit from sustainable land and resource use, including ecotourism and the marketing of non-timber forest products.) Also had ICCB 2019 Sustainability Showcase and Theatre.'
+=======
+sustainability_initiatives: 'Yes (CARBON OFFSETAt SCB, we know that the impacts of climate change are already affecting the planet in unprecedented ways. With many of our members involved in the fight against climate change, and with climate change continuing to threaten biodiversity, we are committed to mitigating the impact that travel to and from ICCB 2019 will have on carbon emissions. Together with our partners at South Pole, we have reserved up to 4,000t of carbon offsets for ICCB 2019 to be used in our selected carbon offset projects; Borneo Forest Protection, Malaysia – Preserving Borneo’s richly diverse tropical forests and Keo Seima Wildlife Sanctuary, Cambodia. The Borneo Forestry Project in Malaysia protects and rehabilitates 25,000 hectares of degraded rainforest in the area of Sabah via tree planting and sustainable forest restoration activities.Keo Seima Wildlife Sanctuary (REDD+) conserves 166,983 hectares of the Seima Protection Forest, preventing deforestation and degradation and reducing forest and wildlife crime through law enforcement increases local species populations. The project also funds local community development, improving numeracy and literacy levels and encouraging locals to profit from sustainable land and resource use, including ecotourism and the marketing of non-timber forest products.).  Also had ICCB 2019 SUSTAINABILITY SHOWCASE AND THEATER.'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 conference_url: 'https://conbio.org/mini-sites/iccb-2019'
 other_details: 'Please be aware: the Society for Conservation Biology and Conservation Biology journal are not associated with the WASET conference called ICCB 2019: 21st International Conference on Conservation Biology. The congress has been reported to the International Congress and Convention Association.'
 ---

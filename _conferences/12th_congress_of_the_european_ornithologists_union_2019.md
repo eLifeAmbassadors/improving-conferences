@@ -9,13 +9,23 @@ attendees: '400'
 carbon_footprint: '800'
 society_name: ' European Ornithologists Union'
 society_members: '1000'
+<<<<<<< HEAD
+=======
+attendees: '400'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Cluj-Napoca, Romania'
 frequency: 'Annual'
 sponsors: 'Universitas Napocensis, MILVUS group, SOR (Societatea Ornitologica Romana), Ecotone GPS Telemetry, STAR|ODDI (logging Life Science), LOTEK '
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '200'
+=======
+registration_fee: '$175-$450'
+carbon_footprint: '600'
+other_carbon_footprint: '120'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program was available online on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

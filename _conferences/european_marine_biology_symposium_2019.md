@@ -9,13 +9,23 @@ attendees: '300'
 carbon_footprint: '600'
 society_name: 'European Marine Biology'
 society_members: 'Not Applicable'
+<<<<<<< HEAD
+=======
+attendees: '300'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Dublin, Ireland'
 frequency: 'Annual'
 sponsors: 'Environmental Protection Agency, European Marine Biological Resource Centre, LifeWatch ERIC, Marine Institute, OYSTER, UCD Earth Institute, Springer-Verlag, FlowCam Fluid Imaging Technologies, nhbs, wildlife | ecology | conservation'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '150'
+=======
+registration_fee: '$250-$434'
+carbon_footprint: '450'
+other_carbon_footprint: '90'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes online scientific program and book of abstracts were available online on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
@@ -31,10 +41,17 @@ keynote_gender_balance: 'Not Applicable to this conference.'
 speaker_gender_balance: '2 Men: 3 Women'
 invited_gender_balance: 'Not Applicable to this conference.'
 session_chair_gender_balance: '7 Men: 5 Women'
+<<<<<<< HEAD
 conference_chair_gender_balance: 'Conference charis: 1 Man: 1 Woman'
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'Yes (https://embs54.ucd.ie/front-page/useful-information/an-environmentally-conscious-symposium/): In keeping with our philosophy of conservation and sustainability, we have ensured that EMBS54 benefits from the following: Close proximity to transportation hubs, public transport, hire bikes, Close proximity to accommodation, restaurants, activities,  Local catering companies used to reduce transportation miles, Reusable tableware, no plastic bottles, Venue employs natural light, Recycling/composting facilities on campus, Minimal use of plastic – paper name badges, BYO lanyards, Digital alternatives to paper used wherever possible).'
+=======
+conference_chair_gender_balance: 'Conf charis: 1 Man: 1 Woman'
+environmental_sustainability: 'None'
+public_engagement: 'None'
+sustainability_initiatives: 'Yes (https://embs54.ucd.ie/front-page/useful-information/an-environmentally-conscious-symposium/): In keeping with our philosophy of conservation and sustainability, we have ensured that EMBS54 benefits from the following:     Close proximity to transportation hubs, public transport, hire bikes     Close proximity to accommodation, restaurants, activities     Local catering companies used to reduce transportation miles     Reusable tableware, no plastic bottles     Venue employs natural light     Recycling/composting facilities on campus     Minimal use of plastic – paper name badges, BYO lanyards     Digital alternatives to paper used wherever possible)'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 conference_url: 'https://embs54.ucd.ie/'
 other_details: ''
 ---

@@ -28,10 +28,17 @@ code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'
 keynote_gender_balance: '8 Men'
+<<<<<<< HEAD
 speaker_gender_balance: '2 Men'
 invited_gender_balance: '46 Men: 32 Women (28 Men: 14 Women)'
 session_chair_gender_balance: 'Not Applicable to this meeting.'
 conference_chair_gender_balance: 'Organising Committee: 7 Men: 2 Women'
+=======
+speaker_gender_balance: 'Not Applicable to this meeting.'
+invited_gender_balance: '46 Men: 32 Women'
+session_chair_gender_balance: 'Not Applicable to this meeting.'
+conference_chair_gender_balance: 'No information available online.'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

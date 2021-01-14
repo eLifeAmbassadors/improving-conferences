@@ -9,13 +9,23 @@ attendees: '300'
 carbon_footprint: '600'
 society_name: 'The Leibniz Institute for Zoo and Wildlife Research (IZW) '
 society_members: 'Not Applicable'
+<<<<<<< HEAD
+=======
+attendees: '300'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Berlin, Germany'
 frequency: 'Biennial'
 sponsors: 'DFG, WWF, EAZA, VECTRONIC, Aerospace, Wechsel(Free to be free), BMC'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '150'
+=======
+registration_fee: '$38-$54'
+carbon_footprint: '450'
+other_carbon_footprint: '90'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program was available online as a .pdf file on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

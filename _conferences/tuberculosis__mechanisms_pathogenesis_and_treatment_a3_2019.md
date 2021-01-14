@@ -15,7 +15,13 @@ sponsors: 'Bill and Melinda Gates Foundation'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
+<<<<<<< HEAD
 other_carbon_footprint: '100'
+=======
+registration_fee: 'No information available online'
+carbon_footprint: '300'
+other_carbon_footprint: '60'
+>>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program was available online on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
