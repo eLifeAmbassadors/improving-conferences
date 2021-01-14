@@ -2,7 +2,6 @@
 layout: conference 
 name: 'European Conference on Mathematical and Theoretical Biology (ECMTB)'
 year: '2020'
-<<<<<<< HEAD
 total_years: '12'
 discipline: 'Mathematical and Theoretical Biology'
 registration_fee: '$325-$650'
@@ -10,26 +9,13 @@ attendees: '2000'
 carbon_footprint: '4000'
 society_name: 'Heidelberg University, a joint event organized by the European Society for Mathematical and Theoretical Biology (ESMTB) and the Society for Mathematical Biology (SMB)'
 society_members: '4000'
-=======
-discipline: 'Mathematical and Theoretical Biology'
-total_years: '12'
-society_name: 'Heidelberg University, a joint event organized by the European Society for Mathematical and Theoretical Biology (ESMTB) and the Society for Mathematical Biology (SMB)'
-society_members: '4000'
-attendees: '2000'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Heidelberg, Germany'
 frequency: 'Biennial'
 sponsors: 'Ciencias ULisboa(https://ciencias.ulisboa.pt/), CAMAFcIO(http://cmafcio.campus.ciencias.ulisboa.pt/node/14), ESMTB(https://esmtb.org/)'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-4000'
-<<<<<<< HEAD
 other_carbon_footprint: '1000'
-=======
-registration_fee: '$325-$650'
-carbon_footprint: '3000'
-other_carbon_footprint: '600'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program as App and html was available online.'
 onsite_maternity: 'None'
 onsite_childcare: 'Yes on-site but Not Free (Participants are welcome to avail of the childcare service (German or English language) for children between 1 and 10 years. The flexible childcare service is available from Monday to Friday. For appropriate planning, we kindly ask you to indicate your interest in a childcare service while registering for the conference and no later than July 1st, 2020. We will then make the arrangements with the childcare service. The prices are 8-10 Euros per child per hour.)'
@@ -37,10 +23,7 @@ caregiver_grant: 'None'
 career_development: 'Yes (1. All conference attendees have the opportunity to participate in the ECMTB mentoring program which aims to pair Senior and Junior scientists, facilitating networking and the exchange of scientific ideas, feedback on conference presentations, and career advice. Within the registration form, participants will be asked to indicate whether they would like to take part in the mentoring program as a mentor, mentee or both. In addition, they will be asked to indicate their research interests.  2.SMB Early Career Workshop including a variety of presentations and discussions around careers in mathematical biology.)'
 ecr_promotion_events: 'None'
 travel_awards: 'None'
-<<<<<<< HEAD
 code_of_ethics: 'None'
-=======
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'
@@ -53,9 +36,5 @@ environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://www.ecmtb2018.org/MentProg'
-<<<<<<< HEAD
 other_details: 'The ECMTB 2018 Organizing Committee is setting up a Mentorship Program to facilitate research and career interactions between junior and senior scientists attending the meeting. Participants of ECMTB 2018 can sign up to be part of the mentorship program, either as a mentee, a mentor, or both. Junior scientists can request to be mentored by a senior scientist, and senior scientists can offer themselves as mentors. Junior scientists include students, post-doctoral fellows, research assistants and newly appointed faculty members. Senior scientists include postdoctoral fellows, research assistants, established faculty members. The following types of interactions between mentors and mentees are encouraged: -mentors and mentees have a lunch (or dinner) together to discuss the mentees’ scientific interests and educational plan and/or career aims; mentors share their career experience with their mentees;  mentors attend the (poster or lecture) presentation of the mentee and provide constructive feedback; mentors introduce mentees to their colleagues to help the mentee establish a professional network. Typically, the mentor initiates these activities. However, we encourage mentees to also prepare for their participation, with specific questions and goals they would like to achieve at the conference.'
-=======
-other_details: 'The ECMTB 2018 Organizing Committee is setting up a Mentorship Program to facilitate research and career interactions between junior and senior scientists attending the meeting. Participants of ECMTB 2018 can sign up to be part of the mentorship program, either as a mentee, a mentor, or both. Junior scientists can request to be mentored by a senior scientist, and senior scientists can offer themselves as mentors. Junior scientists include students, post-doctoral fellows, research assistants and newly appointed faculty members. Senior scientists include postdoctoral fellows, research assistants, established faculty members. The following types of interactions between mentors and mentees are encouraged:      -mentors and mentees have a lunch (or dinner) together to discuss the mentees’ scientific interests and educational plan and/or career aims;      -mentors share their career experience with their mentees;     - mentors attend the (poster or lecture) presentation of the mentee and provide constructive feedback;      -mentors introduce mentees to their colleagues to help the mentee establish a professional network.  Typically, the mentor initiates these activities. However, we encourage mentees to also prepare for their participation, with specific questions and goals they would like to achieve at the conference.'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 ---

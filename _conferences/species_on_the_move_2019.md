@@ -31,11 +31,7 @@ keynote_gender_balance: '8 Men: 8 Women'
 speaker_gender_balance: 'None'
 invited_gender_balance: 'Not Applicable to this conference.'
 session_chair_gender_balance: '17 Men: 12 Women'
-<<<<<<< HEAD
 conference_chair_gender_balance: 'Co-convenors: 1 Man: 1 Women, Organizing committee including an early career researcher committee: 12 Women: 10 Men'
-=======
-conference_chair_gender_balance: 'co-conveenors: 1 Man: 1 Women, Organizing committee including an early career researcher committee: 12 Women: 10 Men'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

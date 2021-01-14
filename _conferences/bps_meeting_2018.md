@@ -15,7 +15,6 @@ sponsors: 'Physics Today journal, Lecia, Oxford Instruments Asylum Research AFMs
 virtual_option: 'None'
 digital_archives: 'Only the keynote lecture: https://www.biophysics.org/video-library/2018-biophysical-society-lecture'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '3250'
 electonic_program: 'Yes (Meeting App desktop planner, online porgram book were provided)'
 onsite_maternity: 'None'
@@ -25,18 +24,6 @@ career_development: 'Yes (1. Looking Beyond Academia: Identifying Your Career Op
 ecr_promotion_events: 'Yes (Student research achievement award (SRAA) for graduate & postdoctoral trainees)'
 travel_awards: 'Yes (a limited number of awards for Undergraduates and graduate trainees, postdoctoral researchers, mid-career scientists (non-tenured, excludes full professors or equivalent)) '
 code_of_ethics: 'None'
-=======
-registration_fee: ' $80-280'
-carbon_footprint: '9750'
-other_carbon_footprint: '1950'
-electonic_program: 'Yes (Meeting App desktop planner, online porgram book)'
-onsite_maternity: 'None'
-onsite_childcare: 'None'
-caregiver_grant: 'Yes (Child Care Grants for up to $500 per family are available for BPS Conference meeting attendees to apply for who will incur extra expenses for childcare during the meeting or bringing children to the meeting. Grants can be used to cover the following expenses:  Childcare expenses provided on-site at Granlibakken by http://www.allaboutkidsbabysitting.com/ Expenses incurred in bringing a caregiver and/or dependent to the meeting. Extra child/dependent care expenses at home incurred due to meeting attendance.  Expenses Not Allowed Regular home-based child/dependent care expenses (expenses that would have been incurred had the applicant not atteneded the meeting); Travel or other expenses related to attendees participation in the meeting such as, meeting registration, meals, housing, transportation costs, or other expenses the attendee would already be incurring by attending the meeting; Tickets for entertainment (parks, museums, etc); and, Meals/Snacks  *BPS does not provide child care providers and does not assume responsibility or liability for child care services.   Selecting Grants If the number of requests for grants exceeds the funding, preference will be given to applicants in the early stage of their careers.   Application of MisrepresentationBPS reserves the right to deny funds to applicants who misrepresent their funding needs.   Changes in Circumstances If, between the time of submitting your application and the dates of the meeting, your needs for the grant changes you must contact BPS. You will be informed if you are still eligible for funding.)'
-career_development: 'Yes (1. Looking Beyond Academia: Identifying Your Career Options using MyIDP, LinkedIn & More   2.Developing Your 30-Second Value Statement (aka Your Elevator Pitch)  3. The Strategic Postdoc: How to Find & Leverage your Postdoc Experience  4. Demystifying the Academic Job Search II: Preparing your Written Application Materials: CV, Cover Letter, and Research Statement   5. Nailing the Job Talk, or Erudition Ain’t Enough   6. The Industry Interview: What you need to do before, during, and after to get the job   7. Demystifying the Academic Job Search I: Understanding the Search Process from the Perspective of Search Committees and Decoding Job Announcements   8. Green Cards for Scientific Researchers: How to win your EB-1A/NIW Case! with Getson & Schat  9. Networking for Nerds: How to Create Your Dream Career  10. Leveraging LinkedIn in the PhD Job Search: Networking, Informational Interviews, and More)'
-ecr_promotion_events: 'Yes (Student research achievement award (SRAA) for graduate & postdoctoral trainees)'
-travel_awards: 'Yes:a limited number of awards for Undergraduates and graduate trainees, postdoctoral researchers, mid-career scientists (non-tenured, excludes full professors or equivalent) '
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'https://www.biophysics.org/code-of-conduct'
 safety_instructions: 'None'
 gender_balance: 'None'

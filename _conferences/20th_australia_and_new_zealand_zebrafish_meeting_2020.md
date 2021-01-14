@@ -11,11 +11,7 @@ society_name: 'Not applicable'
 society_members: 'Not Applicable'
 venue: 'Victoria, Australia'
 frequency: 'Annual'
-<<<<<<< HEAD
 sponsors: 'Fujifilm Visualsonics, Zantiks, Techniplast, Genetools LLC Morpholinos, The Company of Biologists, Leica Microscopy, ViewPoint Behavior Technology, Nikon, IDT(Integrated DNA Technologies), SciTech, Coherent Scientific, SDR Scientific'
-=======
-sponsors: 'The Company of Biologists, Lecia Microscopy, ViewPoint Behavior Technology, Nikon, IDT(Integrated DNA Technologies), SciTech, Coherent Scientific, SDR Scientific'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'

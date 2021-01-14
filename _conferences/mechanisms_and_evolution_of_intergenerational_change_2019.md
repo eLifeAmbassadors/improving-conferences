@@ -9,23 +9,13 @@ attendees: '200'
 carbon_footprint: '400'
 society_name: 'Wellcome Genome, UK'
 society_members: 'Not Applicable'
-<<<<<<< HEAD
-=======
-attendees: '200'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Wellcome Genome Campus,Hinxton, UK'
 frequency: 'Annual'
 sponsors: 'Centre for Trophoblast Research UK (https://www.trophoblast.cam.ac.uk/) and Journal of Neuro endocrinology'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '100'
-=======
-registration_fee: '$348-$960'
-carbon_footprint: '300'
-other_carbon_footprint: '60'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program was available online as a .pdf file on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

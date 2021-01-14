@@ -2,7 +2,6 @@
 layout: conference 
 name: 'International Conference on Multiscale Materials Modeling MMM10'
 year: '2018'
-<<<<<<< HEAD
 total_years: '10'
 discipline: 'Computational Modeling, Materials Science'
 registration_fee: '$227-$728'
@@ -17,22 +16,6 @@ virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-4000'
 other_carbon_footprint: '500'
-=======
-discipline: 'Computational Modeling, Materials Science'
-total_years: '10'
-society_name: 'Not Applicable'
-society_members: 'Not Applicable'
-attendees: '1000'
-venue: 'Osaka, Japan'
-frequency: 'Biennial'
-sponsors: ''
-virtual_option: 'None'
-digital_archives: 'None'
-attendance_cost: ' $2000-4000'
-registration_fee: '$227-$728'
-carbon_footprint: '1500'
-other_carbon_footprint: '300'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program was available online.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
@@ -40,24 +23,15 @@ caregiver_grant: 'None'
 career_development: 'None'
 ecr_promotion_events: 'None'
 travel_awards: 'None'
-<<<<<<< HEAD
 code_of_ethics: 'None'
-=======
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'
 keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: '6 Men'
-<<<<<<< HEAD
 invited_gender_balance: '118 Men: 16 Women'
 session_chair_gender_balance: 'Session chairs: 127 Men: 11 Women'
 conference_chair_gender_balance: 'Conference co-chairs: 2 Men, Local Committee: 21 Men: 1 Woman'
-=======
-invited_gender_balance: '118 Mne: 16 Women'
-session_chair_gender_balance: 'Session chairs: 127 Men: 11 Women'
-conference_chair_gender_balance: 'co-chairs: 2 Men, Local Committee: 21 Men: 1 Woman'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

@@ -29,13 +29,8 @@ safety_instructions: 'None'
 gender_balance: 'None'
 keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: 'Not Applicable to this meeting.'
-<<<<<<< HEAD
 invited_gender_balance: 'Male 60percent/Female 40percent'
 session_chair_gender_balance: 'Male 50percent/Female 50percent'
-=======
-invited_gender_balance: 'Male 60percent / Female 40percent'
-session_chair_gender_balance: 'Male 50percent / Female 50percent'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 conference_chair_gender_balance: '1 Man: 1 Woman'
 environmental_sustainability: 'None'
 public_engagement: 'None'

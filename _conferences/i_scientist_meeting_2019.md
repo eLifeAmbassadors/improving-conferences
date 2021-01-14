@@ -2,10 +2,6 @@
 layout: conference 
 name: 'I Scientist meeting'
 year: '2019'
-<<<<<<< HEAD
-=======
-discipline: 'Multidisciplinary'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '4'
 discipline: 'Multidisciplinary'
 registration_fee: '~$100 '
@@ -25,11 +21,7 @@ onsite_maternity: 'None'
 onsite_childcare: 'Yes, free and on-site (Professional childcare at the conference will be provided free of cost in cooperation with the family service of Technische Universität Berlin. The childcare will take place in a room at the conference venue, so you will be close to your child or children at all times. Toys fitting for the age of the registered children will be provided by the childcare service. Should you want to make use of this service, or have any questions, please contact us via contact at iscientist.de. To register your child or children for the childcare service please send us an email by August 15, 2019. In your email please specify the number of children you need to be taken care of, their age, the times at which you would like to make use of the childcare service and whether your children have any special needs.)'
 caregiver_grant: 'None'
 career_development: 'None'
-<<<<<<< HEAD
 ecr_promotion_events: 'Yes (career fair+ Networking events:Ice breaker event+Networking breakfast+conference dinner)'
-=======
-ecr_promotion_events: 'Yes(career fair+ Networking events:Ice breaker event+Networking breakfast+conference dinner)'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 travel_awards: 'None'
 code_of_ethics: 'None'
 code_of_conduct: 'https://www.iscientist.berlin/code-of-conduct'

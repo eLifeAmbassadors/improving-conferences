@@ -9,25 +9,14 @@ attendees: '2000'
 carbon_footprint: '4000'
 society_name: 'Not applicable'
 society_members: 'Not Applicable'
-<<<<<<< HEAD
-=======
-attendees: '2000'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'London, UK'
 frequency: 'Annual'
 sponsors: 'The World Academy of Science, Engineering and Technology is an open science research organization dedicated to promoting the advancement of science, engineering, and technology.'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '1000'
 electonic_program: 'Yes the program includinfg abstracts was available online on ICVID website.'
-=======
-registration_fee: '$400-$650'
-carbon_footprint: '3000'
-other_carbon_footprint: '600'
-electonic_program: 'Yes the program includinfg abstracts was available online on ICVID website).'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'

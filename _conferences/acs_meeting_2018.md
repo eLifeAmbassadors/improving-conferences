@@ -2,10 +2,6 @@
 layout: conference 
 name: 'ACS meeting'
 year: '2018'
-<<<<<<< HEAD
-=======
-discipline: 'Chemistry, Chemical Engineering'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '147'
 discipline: 'Chemistry, Chemical Engineering'
 registration_fee: ' $110-935'
@@ -19,7 +15,6 @@ sponsors: 'ACS Publications, Baylor university, 3M, Royal Society of Chemistry, 
 virtual_option: 'None'
 digital_archives: 'Keynote or Plenary talk videos only, technical program abstracts from past ACS Meetings as also available since 2015.'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '15500'
 electonic_program: 'Yes online program book was provided.'
 onsite_maternity: 'Yes (Parent/Infant Room and childcare services were provided during the meeting. For convenience and privacy, ACS has designated a room for parents).'
@@ -30,19 +25,6 @@ ecr_promotion_events: 'None, one award only (ACS Physical Chemistry Division Ear
 travel_awards: 'Some and restricted (Active ACS student chapters are eligible to receive an ACS National Meeting Travel Grant that may be used to cover registration fees, lodging, and/or transportation costs associated with ACS National Meetings. Grants are awarded on a first-come, first-served basis. Applications are sorted in order of receipt date, chapter activation date, and the number of ACS student members. If more applications are received than the allotted number of awards, your chapter will be placed on a waiting list.)'
 code_of_ethics: 'None'
 code_of_conduct: 'Yes (https://www.acs.org/content/acs/en/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html)'
-=======
-registration_fee: ' $110-935'
-carbon_footprint: '46500'
-other_carbon_footprint: '9300'
-electonic_program: 'Yes online program book'
-onsite_maternity: 'Yes (Parent/Infant Room and childcare services during the meeting. For convenience and privacy, ACS has designated a room for parents)'
-onsite_childcare: 'Yes Not Free (Children participate in age-appropriate activities (that are non-chemistry related) including arts and crafts projects, active games and much more in a safe, nurturing environment at an ACS official property. The location will be sent after your registration is reviewed. Breakfast and lunch will be provided. This service is provided free of charge for all registered ACS meeting attendees.)'
-caregiver_grant: 'None'
-career_development: 'Yes very few (From Lab to Article: Insider Tips for Successful Publication)'
-ecr_promotion_events: 'None, An award only (ACS Physical Chemistry Division Early Career Awards)'
-travel_awards: 'Some restricted (Active ACS student chapters are eligible to receive an ACS National Meeting Travel Grant that may be used to cover registration fees, lodging, and/or transportation costs associated with ACS National Meetings. Grants are awarded on a first-come, first-served basis. Applications are sorted in order of receipt date, chapter activation date, and the number of ACS student members. If more applications are received than the allotted number of awards, your chapter will be placed on a waiting list.)'
-code_of_conduct: 'None'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 safety_instructions: 'None'
 gender_balance: 'None'
 keynote_gender_balance: 'Not Applicable to this meeting.'

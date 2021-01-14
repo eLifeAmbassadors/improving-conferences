@@ -9,34 +9,19 @@ attendees: '500'
 carbon_footprint: '1000'
 society_name: 'Pan-American Society for Evolutionary Developmental Biology '
 society_members: '1000'
-<<<<<<< HEAD
-=======
-attendees: '500'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Miami, USA'
 frequency: 'Biennial'
 sponsors: 'National Institutes of Health, National Science Foundation, Miami College of Arts and Sciences Biology'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '250'
-=======
-registration_fee: 'No information available'
-carbon_footprint: '750'
-other_carbon_footprint: '150'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'None'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'
-<<<<<<< HEAD
 career_development: 'Yes (1. Women in Science: Informal round table discussion on strategies for developing your career, and to encourage networking and support one another.  No need to pre-register, just drop by.  2. Latin American: Organizer: Federico Brown - Meet informally to encourage collegiality and discuss any areas of concern within Evo-Devo in Latin-America.  No need to pre-register, just drop by.  3. LGBTQ+: Organizers: Sofia Casasa & Tamara Franz-Odendaal - An informal discussion to share experiences, discuss any areas of concern and to support self-identified LGBTQ+ people in the Evo-Devo field.  No need to pre-register, just drop by.   4. Persons of color: Meet informally to share experiences, discuss any areas of concern and to support self-identified people of colour in the Evo-Devo field. No need to pre-register, just drop by.)'
 ecr_promotion_events: 'Yes (1. One Early Career Award, 2. Presentation Awards: Two Undergraduate Poster Presentations, Two Graduate Poster Presentations, Two Graduate Oral Presentations, Three Postdoctoral Poster Presentations, Two Postdoctoral Oral Presentations) '
-=======
-career_development: 'Yes (1. Women in Science: Informal round table discussion on strategies for developing your career, and to encourage networking and support one another.  No need to pre-register, just drop by.    2. Latin American: Organizer: Federico Brown - Meet informally to encourage collegiality and discuss any areas of concern within Evo-Devo in Latin-America.  No need to pre-register, just drop by.     3. LGBTQ+: Organizers: Sofia Casasa & Tamara Franz-Odendaal - An informal discussion to share experiences, discuss any areas of concern and to support self-identified LGBTQ+ people in the Evo-Devo field.  No need to pre-register, just drop by.    4. Persons of color: Meet informally to share experiences, discuss any areas of concern and to support self-identified people of colour in the Evo-Devo field. No need to pre-register, just drop by.)'
-ecr_promotion_events: 'Yes (1. One Early Career Award, 2. Presentation Awards: Two Undergraduate Poster Presentations Two Graduate Poster Presentations Two Graduate Oral Presentations Three Postdoctoral Poster Presentations Two Postdoctoral Oral Presentations) '
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 travel_awards: 'None'
 code_of_ethics: 'None'
 code_of_conduct: 'None'

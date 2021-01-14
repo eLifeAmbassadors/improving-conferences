@@ -9,36 +9,21 @@ attendees: '1000'
 carbon_footprint: '2000'
 society_name: 'American Society for Mining & Reclamation'
 society_members: '2000'
-<<<<<<< HEAD
-=======
-attendees: '1000'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Big Sky, Montana, United States'
 frequency: 'Annual'
 sponsors: 'Office of Surface Mining, Reclamation and enforcement, KC Harvey Environmental LLC, Peabody, Briserley Associates, MIDAS Gold, BKS Environmental Associates, Inc., Energy Laboratories, GeoEngineer, Herrera, Pacific Inter-Mountain Distribution, LLC., Rocky Mountain Reclamation'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '500'
-=======
-registration_fee: '$150-$450'
-carbon_footprint: '1500'
-other_carbon_footprint: '300'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the meeting program was available online as a .pdf file on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'
 career_development: 'None'
-<<<<<<< HEAD
 ecr_promotion_events: 'Yes (ECR research awards: 1. The memorial scholarships are in commemoration of deceased ASMR members. They are granted to deserving students from universities, colleges, or community colleges having curricula in a scientific discipline directly related to, and leading toward, a profession in reclamation-related work.   2. Student Presentation Competition: Each year at the annual meetings, the Society sponsors a Student Oral and Poster Competition. All active student members are eligible. There are at least three cash prizes for each of these two contests. In cases of ties, more than one student may be awarded these prizes at the three levels.)'
 travel_awards: 'Bachelors trainee, one Masters trainee and on PhD trainee research achievement awards: Travel grants are available for ASMR student members presenting a technical paper or poster at the Societys Annual Conference held each year.'
 code_of_ethics: 'None'
-=======
-ecr_promotion_events: 'Yes (ECR research awards: 1. The memorial scholarships are in commemoration of deceased ASMR members. They are granted to deserving students from universities, colleges, or community colleges having curricula in a scientific discipline directly related to, and leading toward, a profession in reclamation-related work.    2. Student Presentation Competition: Each year at the annual meetings, the Society sponsors a Student Oral and Poster Competition. All active student members are eligible. There are at least three cash prizes for each of these two contests. In cases of ties, more than one student may be awarded these prizes at the three levels.)'
-travel_awards: 'bachelors trainee, one Masters trainee and on PhD trainee research achievement awards: Travel grants are available for ASMR student members presenting a technical paper or poster at the Societys Annual Conference held each year.'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'

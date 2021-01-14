@@ -36,9 +36,5 @@ environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'
 conference_url: 'http://www.sebiology.org/events/event-sub-pages/impact-of-chromatin-domains-on-plant-phenotypes'
-<<<<<<< HEAD
 other_details: 'Scam Warning: Meeting Accommodation Services: t has come to our attention that SEB speakers are being contacted by accommodation services for this meeting. Please be aware that the SEB has not partnered with any accommodation booking company’s or services for this event. If you are contacted by an accommodation services claiming to be in partnership with this meeting please consider this to be a scam and do not comply with any services offered. Beware of offers from Expo Housing Services and similar companies. http://www.sebiology.org/docs/default-source/event-documents/seb_nucleus-impact_satellite-programme_nov19-digital.pdf'
-=======
-other_details: 'Scam Warning: Meeting Accommodation Services  It has come to our attention that SEB speakers are being contacted by accommodation services for this meeting. Please be aware that the SEB has not partnered with any accommodation booking company’s or services for this event. If you are contacted by an accommodation services claiming to be in partnership with this meeting please consider this to be a scam and do not comply with any services offered. Beware of offers from Expo Housing Services and similar companies. http://www.sebiology.org/docs/default-source/event-documents/seb_nucleus-impact_satellite-programme_nov19-digital.pdf'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 ---

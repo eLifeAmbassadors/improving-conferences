@@ -8,25 +8,14 @@ registration_fee: '$188-$572'
 attendees: '300'
 carbon_footprint: '600'
 society_name: 'Royal Society of Chemistry'
-<<<<<<< HEAD
 society_members: '54000'
-=======
-society_members: '49000'
-attendees: '300'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'United Kingdom'
 frequency: 'Annual'
 sponsors: 'The Royal Society of Chemistry Faraday Division and Materials Chemistry Division'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '150'
-=======
-registration_fee: '$188-$572'
-carbon_footprint: '450'
-other_carbon_footprint: '90'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
@@ -42,11 +31,7 @@ keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: 'Not Applicable to this meeting.'
 invited_gender_balance: '7 Men: 1 Women'
 session_chair_gender_balance: 'No information available online.'
-<<<<<<< HEAD
 conference_chair_gender_balance: 'Committee: 5 Men: 1 Woman'
-=======
-conference_chair_gender_balance: 'No information available online.'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

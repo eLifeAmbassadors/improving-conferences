@@ -4,31 +4,18 @@ name: 'Biennial Conference of the Systematics Association'
 year: '2019'
 total_years: '10'
 discipline: 'Evolution'
-<<<<<<< HEAD
 registration_fee: '$220-$345'
 attendees: '800'
 carbon_footprint: '1600'
 society_name: 'the Systematics Association'
 society_members: '1000'
-=======
-total_years: '10'
-society_name: 'the Systematics Association'
-society_members: '1000'
-attendees: '800'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Bristol, UK'
 frequency: 'Biennial'
 sponsors: 'University of Bristol, The Lennean Society of London, Gilson, Paleobiology University of Bristol'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '400'
-=======
-registration_fee: '$220-$345'
-carbon_footprint: '1200'
-other_carbon_footprint: '240'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes Scientific program and abstract book were both online on conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

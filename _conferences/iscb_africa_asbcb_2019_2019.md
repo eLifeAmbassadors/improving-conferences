@@ -2,16 +2,9 @@
 layout: conference 
 name: 'ISCB Africa ASBCB 2019'
 year: '2019'
-<<<<<<< HEAD
 total_years: '3'
 discipline: 'Computational Biology'
 registration_fee: '$150-$350'
-=======
-discipline: 'Computational Biology'
-total_years: '3'
-society_name: 'African Society for Bioinformatics and Computational Biology'
-society_members: '500'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 attendees: '300'
 carbon_footprint: '600'
 society_name: 'African Society for Bioinformatics and Computational Biology'
@@ -29,12 +22,8 @@ onsite_childcare: 'Yes (https://www.iscb.org/iscb-news-items/4066-2019-may03-pre
 caregiver_grant: 'None'
 career_development: 'None'
 ecr_promotion_events: 'ISCB Student Council (https://www.iscbsc.org/) aim to promote the caree development of young computational biologists through their events. The Student Council conducts coordinated ECR events with ISCB-related events (ISMB, ECCB, ASBCB, ISCB-LA), such as the Student Council Symposium (SCS), European Student Council Symposium (ESCS), Student Council Symposium - Latin America (LA-SCS) and Student Council Symposium - Africa (SCS Africa)'
-<<<<<<< HEAD
 travel_awards: 'Yes (We are raising funds to provide travel fellowships for African students to attend the ISCB Africa ASBCB 2019 Conference on Bioinformatics. The Aim is to bring African students together to introduce them to a variety of research projects in computational biology, increase their awareness of the broad range of opportunities that exist in the field, and introduce them to some of the people leading this research internationally. The conference provides a great opportunity for students as it is preceded by bioinformatics workshops.Funding will support the registration, travel and accommodation of students. It will not cover visa fees, meals or subsistence.) '
 code_of_ethics: 'https://www.iscb.org/iscb-policy-statements/iscb-code-of-ethics-and-professional-conduct'
-=======
-travel_awards: 'Yes (We are raising funds to provide travel fellowships for African students to attend the ISCB Africa ASBCB 2019 Conference on Bioinformatics. The Aim is to bring African students together to introduce them to a variety of research projects in computational biology, increase their awareness of the broad range of opportunities that exist in the field, and introduce them to some of the people leading this research internationally. The conference provides a great opportunity for students as it is preceded by bioinformatics workshops. Funding will support the registration, travel and accommodation of students. It will not cover visa fees, meals or subsistence.) '
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'https://www.iscb.org/iscbafrica2019-policy-statements/iscbafrica2019-safe-space-code-conduct'
 safety_instructions: 'None'
 gender_balance: 'None'
@@ -42,11 +31,7 @@ keynote_gender_balance: '3 Women: 2 Man'
 speaker_gender_balance: 'Not Applicable to this meeting.'
 invited_gender_balance: '19 Men: 12 Women'
 session_chair_gender_balance: 'Not Applicable to this meeting.'
-<<<<<<< HEAD
 conference_chair_gender_balance: 'Chairs: 2 Men: 1 Woman, Local Organizing Committee: 4 Men,  Local Steering Committee: 3 Women: 6 Men'
-=======
-conference_chair_gender_balance: 'Chairs: 2 Men: 1 Woman Local Organizing Committee: 4 Men  Local Steering Committee: 3 Women: 6 Men'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

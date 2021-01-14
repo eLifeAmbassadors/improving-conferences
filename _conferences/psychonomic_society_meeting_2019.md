@@ -9,24 +9,13 @@ attendees: '2400'
 carbon_footprint: '4800'
 society_name: 'Psychonomic Society'
 society_members: '4300'
-<<<<<<< HEAD
 venue: 'Montreal, Quebec, Canada'
-=======
-attendees: '2400'
-venue: 'Montreal, Canada'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 frequency: 'Annual'
 sponsors: 'Cognition Lab, PsychoPy3, Brain Vision LLC< Routledge Taylor and Francis Group, Cambridge University Press, SONA Systems, Springer Nature, Exponent, GLN Consulting, TobiiPro, SR Research EyeLink, Millisecond, UT Dallas, VPixx, The MIT Press, Psychology Software Tools'
 virtual_option: 'Yes livestream the keynote and Symposiume I and II'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '1200'
-=======
-registration_fee: '0$-75$'
-carbon_footprint: '3600'
-other_carbon_footprint: '720'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was available online via and App and as a .pdf file.'
 onsite_maternity: 'Yes (The nursing mothers location will be available in mid-July. The room is equipped with comfortable furniture and a private area for nursing, but no refrigerator. Attendees may not use this room for babysitting purposes.)'
 onsite_childcare: 'None'
@@ -37,11 +26,7 @@ travel_awards: 'Yes (1. Graduate Travel Awards: The Psychonomic Society Program 
 code_of_ethics: 'None'
 code_of_conduct: 'Yes: https://www.psychonomic.org/page/codeofconduct   and https://www.psychonomic.org/page/2019program'
 safety_instructions: 'None'
-<<<<<<< HEAD
 gender_balance: 'Yes: https://www.psychonomic.org/page/diversityinclusion'
-=======
-gender_balance: 'None'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 keynote_gender_balance: '2 Woman'
 speaker_gender_balance: 'Not Applicable to this Meeting.'
 invited_gender_balance: '2 Men: 7 Women'

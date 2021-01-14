@@ -9,23 +9,13 @@ attendees: '200'
 carbon_footprint: '400'
 society_name: 'East African Association for Paleoanthropology & Paleontology '
 society_members: '500'
-<<<<<<< HEAD
-=======
-attendees: '200'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Nairobi, Kenya'
 frequency: 'Biennial'
 sponsors: 'No information available online'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '100'
-=======
-registration_fee: '$30-$100'
-carbon_footprint: '300'
-other_carbon_footprint: '60'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes online program was available online on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

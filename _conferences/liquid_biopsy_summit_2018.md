@@ -9,24 +9,13 @@ attendees: '300'
 carbon_footprint: '600'
 society_name: 'Cambridge Innovation Institute'
 society_members: '500'
-<<<<<<< HEAD
 venue: 'Seattle, WA, United States'
-=======
-attendees: '300'
-venue: 'Seattle , WA, United States'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 frequency: 'Annual'
 sponsors: 'Corporate Sponsor: Volition, BROTMAN BATY Institute, CHI (a division of Cambridge Innovation Institute(CII))'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '150'
-=======
-registration_fee: '$1049-$2599'
-carbon_footprint: '450'
-other_carbon_footprint: '90'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

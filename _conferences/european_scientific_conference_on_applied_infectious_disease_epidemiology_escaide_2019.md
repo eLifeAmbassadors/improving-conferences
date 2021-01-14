@@ -20,16 +20,10 @@ electonic_program: 'Yes has mobile App and the meeting program was also availabl
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'
-<<<<<<< HEAD
 career_development: 'Yes (1. Workshop on how to improve your chances to get an article published in a peer-reviewed journal)'
 ecr_promotion_events: 'None'
 travel_awards: 'None'
 code_of_ethics: 'None'
-=======
-career_development: 'Yes; Workshop on how to improve your chances to get an article published in a peer-reviewed journal'
-ecr_promotion_events: 'None'
-travel_awards: 'No'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'

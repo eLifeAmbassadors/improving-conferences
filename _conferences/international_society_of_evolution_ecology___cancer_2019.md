@@ -9,23 +9,13 @@ attendees: '500'
 carbon_footprint: '1000'
 society_name: 'International Society of Evolution, Ecology & Cancer'
 society_members: '1000'
-<<<<<<< HEAD
-=======
-attendees: '500'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Hinxton, UK'
 frequency: '6 months'
 sponsors: 'Trends in Cancer journal'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '250'
-=======
-registration_fee: '$285-$731'
-carbon_footprint: '750'
-other_carbon_footprint: '150'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes program book was provided on the conference website as a .pdf file.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

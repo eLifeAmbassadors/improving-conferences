@@ -9,23 +9,13 @@ attendees: '1000'
 carbon_footprint: '2000'
 society_name: 'Genetics Society'
 society_members: 'over 2000'
-<<<<<<< HEAD
-=======
-attendees: '1000'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Oxford, UK'
 frequency: 'Annual'
 sponsors: 'Heredity, the Genetics Society, The Royal Society Publishing, Frontiers in Ecology and Evolution, Physalia Courses'
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '500'
-=======
-registration_fee: 'No information available online'
-carbon_footprint: '1500'
-other_carbon_footprint: '300'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None (We recognise the importance of childcare provision at conferences and are committed to supporting attendance of delegates with young children who would otherwise be unable to attend.)'

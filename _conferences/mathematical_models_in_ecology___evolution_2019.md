@@ -9,23 +9,13 @@ attendees: '200'
 carbon_footprint: '400'
 society_name: 'Not Applicable'
 society_members: 'Not Applicable'
-<<<<<<< HEAD
-=======
-attendees: '200'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Lyon, France'
 frequency: 'Biennial'
 sponsors: 'IDEEXLYON, Université de Lyon, Investissements dAvenir, Labex MILYON, Inria, Labex EEECOFECT, LBBE, Laboratoire de Biométrie et Biologie Evolutive, Pôle Rhône-Alpes de Bioinformatique, sfe2(Société française décologie et dévolution) '
 virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '100'
-=======
-registration_fee: 'No information available'
-carbon_footprint: '300'
-other_carbon_footprint: '60'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes program book was provided on the conference website as a .pdf file.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

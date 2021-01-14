@@ -8,38 +8,22 @@ registration_fee: 'Egyptian Participants: $9-$44, International Participants: $9
 attendees: '2000'
 carbon_footprint: '4000'
 society_name: 'TWAS-AREP (The World Academy of Sciences for the advancement of science in developing countries (TWAS) is a global science academy based in Trieste, Italy)'
-<<<<<<< HEAD
 society_members: '1190'
-=======
-society_members: '1,190'
-attendees: '2000'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Alexandria and Lyons, France'
 frequency: 'Annual'
 sponsors: 'TWAS-AREP'
 virtual_option: 'None'
 digital_archives: 'Yes all talks avaiilable (http://webcast.bibalex.org/Conference/Details.aspx?ID=4098)'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '1000'
-=======
-registration_fee: 'Egyptian Participants: $9-$44   International Participants: $90-$1000'
-carbon_footprint: '3000'
-other_carbon_footprint: '600'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes Electronic program book was available on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'
 career_development: 'None'
-<<<<<<< HEAD
 ecr_promotion_events: 'Hosted 99 young scientists from 27 developing countries to discuss the problems these scientists face when conducting research in their respective countries.'
 travel_awards: 'None'
 code_of_ethics: 'None'
-=======
-ecr_promotion_events: ' hosted 99 young scientists from 27 developing countries to discuss the problems these scientists face when conducting research in their respective countries.'
-travel_awards: 'None'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'

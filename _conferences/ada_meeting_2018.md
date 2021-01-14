@@ -31,11 +31,7 @@ keynote_gender_balance: 'No information available'
 speaker_gender_balance: 'No information available'
 invited_gender_balance: 'No information available'
 session_chair_gender_balance: 'No information available'
-<<<<<<< HEAD
 conference_chair_gender_balance: 'Planning Committee: 20 Men: 13 Women'
-=======
-conference_chair_gender_balance: 'Planning  Committee: 20 Men: 13 Women'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

@@ -17,11 +17,7 @@ digital_archives: 'Yes previous meeting webcasts are available archived (https:/
 attendance_cost: ' $2000-$4000'
 other_carbon_footprint: '585.5'
 electonic_program: 'Yes the program was provided online on conference website.'
-<<<<<<< HEAD
 onsite_maternity: 'Yes (The Mother’s Room will be available during the hours noted below.)'
-=======
-onsite_maternity: 'Yes (The Mother’s Room will be available during the hours noted below.Wednesday, July 24     08:00 –16:00     Thursday, July 25. 07:30 –17:00. Friday, July 26. 08:00 –17:00  Saturday, July 27. 08:00 –17:00)'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 onsite_childcare: 'None'
 caregiver_grant: 'None'
 career_development: 'None'

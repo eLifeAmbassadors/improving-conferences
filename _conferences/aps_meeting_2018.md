@@ -2,10 +2,6 @@
 layout: conference 
 name: 'APS meeting'
 year: '2018'
-<<<<<<< HEAD
-=======
-discipline: 'Physics'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '32'
 discipline: 'Physics'
 registration_fee: '$100-700'
@@ -15,23 +11,12 @@ society_name: 'American Physical Society'
 society_members: '54069'
 venue: 'United States'
 frequency: 'Twice a year'
-<<<<<<< HEAD
 sponsors: 'GC America, AvaDent Digital Dental Solutions, Dentsply Sirona Prosthetics, Ivoclar Vivadent, Panthera Dental, Straumann, Sesame Communications - Henry Schein One, Thommen Medical, ZirkonZahn, Southern Implants, Quintessence, Palmeri Media Group'
-=======
-sponsors: 'GC America, AvaDent Digital Dental Solutions, Dentsply Sirona Prosthetics, Ivoclar Vivadent, Panthera Dental, Straumann, Sesame Communications - Henry Schein One, Thommen Medical, ZirkonZahn, Southern Implants, Quintessence   , Palmeri Media Group'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 virtual_option: 'None'
 digital_archives: 'Many presenters provide recorded talks and slides but No digital posters (https://www.aps.org/meetings/multimedia/index.cfm?mtgYr=2018&mtgCd=MAR18&mtgUnit=&mtgVS=&mtgSE=0&fm=0&srhPresent=Go&prebacklink=yes).'
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '6000'
 electonic_program: 'Yes online program book and scheduler was provided.'
-=======
-registration_fee: '$100-700'
-carbon_footprint: '18000'
-other_carbon_footprint: '3600'
-electonic_program: 'Yes online program book and scheduler'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 onsite_maternity: 'None'
 onsite_childcare: 'None'
 caregiver_grant: 'None'

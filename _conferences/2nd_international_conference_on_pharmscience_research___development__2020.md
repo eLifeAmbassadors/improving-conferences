@@ -2,10 +2,6 @@
 layout: conference 
 name: '2nd International Conference on PharmScience Research & Development '
 year: '2020'
-<<<<<<< HEAD
-=======
-discipline: 'Pharmaceutical Science'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 total_years: '2'
 discipline: 'Pharmaceutical Science'
 registration_fee: '$999-$1099'

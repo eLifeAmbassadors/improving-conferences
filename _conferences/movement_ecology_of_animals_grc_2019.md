@@ -26,11 +26,7 @@ travel_awards: 'The Car Strom Underrepresented Minority Fellowship: Eligibility:
 code_of_ethics: 'https://www.grc.org/about/grc-policies-and-legal-disclaimers/'
 code_of_conduct: 'https://www.grc.org/about/grc-policies-and-legal-disclaimers/'
 safety_instructions: 'None'
-<<<<<<< HEAD
 gender_balance: 'Diversity efforts for undergaduates not speaker balance: https://www.grc.org/about/grc-diversity-initiatives/'
-=======
-gender_balance: 'None'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: 'Not Applicable to this meeting.'
 invited_gender_balance: '18 Men: 11 Women'

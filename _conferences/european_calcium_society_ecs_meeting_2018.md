@@ -30,13 +30,8 @@ gender_balance: 'None'
 keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: '2 Women (100percent)'
 invited_gender_balance: '44 Men: 23 Women'
-<<<<<<< HEAD
 session_chair_gender_balance: '10 Men: 3 Women'
 conference_chair_gender_balance: 'Organisers: 2 Men, Local Organising Committee: 5 Men, 3 Women'
-=======
-session_chair_gender_balance: '5 Men: 2 Women'
-conference_chair_gender_balance: '1 Man: 1 Woman'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'

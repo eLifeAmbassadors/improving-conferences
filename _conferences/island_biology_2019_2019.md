@@ -9,23 +9,13 @@ attendees: '370'
 carbon_footprint: '740'
 society_name: 'International Society for Island Biology (SIB)'
 society_members: '600'
-<<<<<<< HEAD
-=======
-attendees: '370'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 venue: 'Reunion, France'
 frequency: 'Triennial'
 sponsors: 'DRRT (Délégation régionale à la Recherche et à la Technologie), PNRun(National Park of La Réunion), DEAL (Direction Régionale de lEnvironnement, de lAménagement et du Logement), Région Réunion(Regional council of La Réunion Direction de lEnergie, de lEconomie Circulaire et de la Biodiversité), Interreg V(Cooperation European Fund Interreg V - Région Réunion), TAAF (Terres Australes et Antarctiques Françaises), Nexa (Regional agency for development, investment and innovation), UMR PVBMT(UMR Peuplements végétaux et bio agresseurs en milieu tropical), CNRS - INEE(National Center for Scientific Research - National Institute for Ecology and Evolutio), IRD (Research Institute for Development), MétéoFrance(Meteorological services), OSUR (Observatoire des Sciences de lUnivers - Réunion), CIRAD (International Center for Research in Agriculture and Development), OMNCG (Observatory for Natural Ecosystems and Global Changes (Research federation, University of La Réunion), AirFrance KLM Airline, BIOST(Research federation "BioSecurity in Tropical Systems"), Air Austral Airline, Vahatra (Malagasy assocation for biological conservation and education), Frontiers of Biogeography (Frontiers of Biogeography (FoB) is the scientific magazine of the International Biogeography Society (IBS, www.biogeography.org)), Pensoft(Pensoft is an independent academic publishing company.), Facultés des Sciences et Technologies, Université de La Réunion, Service Reprographie (Université de La Réunion), University service for document printing and copying, Biotope, Bureau détudes environnementales'
 virtual_option: 'Yes Livestreaming was available on multiple days (https://www.youtube.com/results?search_query=universitpercentC3percentA9+de+la+rpercentC3percentA9union)'
 digital_archives: 'Yes; available through Youtube link: https://www.youtube.com/watch?v=91svPnFoiIg&list=PLJnvUWYNCYAb8ngTsYQxdFNW1HbVd-1Aj&index=2&t=0s '
 attendance_cost: ' $2000-$4000'
-<<<<<<< HEAD
 other_carbon_footprint: '185'
-=======
-registration_fee: '$163-$434'
-carbon_footprint: '555'
-other_carbon_footprint: '111'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on the conference website.'
 onsite_maternity: 'None'
 onsite_childcare: 'None'

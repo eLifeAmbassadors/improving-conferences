@@ -26,11 +26,7 @@ travel_awards: 'None'
 code_of_ethics: 'None'
 code_of_conduct: 'None'
 safety_instructions: 'None'
-<<<<<<< HEAD
 gender_balance: 'https://www.britishecologicalsociety.org/equality-diversity/'
-=======
-gender_balance: 'None'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: '2 Men: 2 Women'
 invited_gender_balance: 'No information available online.'

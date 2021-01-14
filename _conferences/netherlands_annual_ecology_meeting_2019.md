@@ -2,7 +2,6 @@
 layout: conference 
 name: 'Netherlands Annual Ecology Meeting'
 year: '2019'
-<<<<<<< HEAD
 total_years: '12'
 discipline: 'Ecology'
 registration_fee: '$120-$275'
@@ -17,36 +16,14 @@ virtual_option: 'None'
 digital_archives: 'None'
 attendance_cost: ' $2000-$4000'
 other_carbon_footprint: '139'
-=======
-discipline: 'Ecology'
-total_years: '12'
-society_name: 'Netherlands Ecological Research Network (NERN)'
-society_members: '500'
-attendees: '278'
-venue: 'Lunteren, Netherlands'
-frequency: 'Annual'
-sponsors: ''
-virtual_option: 'None'
-digital_archives: 'None'
-attendance_cost: ' $2000-$4000'
-registration_fee: '$120-$275'
-carbon_footprint: '417'
-other_carbon_footprint: '83.4'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 electonic_program: 'Yes the program was provided online on the conference website also as .pdf file.'
 onsite_maternity: 'None'
 onsite_childcare: 'None '
 caregiver_grant: 'None'
-<<<<<<< HEAD
 career_development: 'Yes (Postdoc Workshop: Identifying and Tackling Postdoc Challenges, Workshop: Transfer your science into news)'
 ecr_promotion_events: 'None'
 travel_awards: 'None'
 code_of_ethics: 'None'
-=======
-career_development: 'Yes (Postdoc Workshop: Identifying and Tackling Postdoc Challenges Workshop: Transfer your science into news)'
-ecr_promotion_events: 'None'
-travel_awards: 'None'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 code_of_conduct: 'None'
 safety_instructions: 'None'
 gender_balance: 'None'
@@ -58,10 +35,6 @@ conference_chair_gender_balance: 'Not Applicable to this meeting.'
 environmental_sustainability: 'None'
 public_engagement: 'None'
 sustainability_initiatives: 'None'
-<<<<<<< HEAD
 conference_url: 'https://www.nern.nl/NAEM'
-=======
-conference_url: 'https://www.nern.nl/NAEM2020'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 other_details: 'NERN is not a society, association or club and thus does not have members. It is a network of which all people working in ecology in the Netherlands can be part. Formally, the network is supported and driven by a collaboration of all Graduate Schools and institutes working in the field of ecology, evolution, and biodiversity.'
 ---

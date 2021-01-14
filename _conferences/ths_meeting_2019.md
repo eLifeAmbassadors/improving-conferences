@@ -29,11 +29,7 @@ safety_instructions: 'None'
 gender_balance: 'None'
 keynote_gender_balance: 'Not Applicable to this meeting.'
 speaker_gender_balance: '26 Men: 9 Women'
-<<<<<<< HEAD
 invited_gender_balance: '29 Men:15 Women'
-=======
-invited_gender_balance: '29 Men: 15 Wome'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 session_chair_gender_balance: 'Not Applicable to this meeting.'
 conference_chair_gender_balance: 'Conference Chair: 1 Man, Organizing Committee: chair: 1 Man, members: 8 Men: 4 Women, Board memebrs: 6 Men: 2 Women'
 environmental_sustainability: 'None'

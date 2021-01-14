@@ -3,13 +3,8 @@ layout: conference
 name: '18th Congress of the International Society for Behavioral Ecology'
 year: '2020'
 total_years: '9'
-<<<<<<< HEAD
 discipline: 'Behavioral Ecology '
 registration_fee: '$515-$980'
-=======
-society_name: 'International Society for Behavioral Ecology'
-society_members: '1500'
->>>>>>> 236dd27066f45460891aaafb5d4897217e28218d
 attendees: '600'
 carbon_footprint: '1200'
 society_name: 'International Society for Behavioral Ecology'
