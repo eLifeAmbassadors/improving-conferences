@@ -15,17 +15,15 @@ title: Home
 
 <table id='data_table' class="hover" style="width:100%">
   <thead>
+
   <tr>
     <th>Conference name</th>
     <th>Year</th>
     <th>Total years</th>
     <th>Discipline</th>
-    <th>Gender Balance/Diversity Statement</th>
-     <th>Registration fees</th>
+    <th>Registration fees</th>
     <th>Attendance cost</th>   
     <th>Carbon footprint <small> (tons of CO<sub>2</sub>)</small></th>
-    <th>Other carbon footprint <small>(tons of CO<sub>2</sub>)</small></th>
-
     <th>Society name</th>
     <th>Society members</th>
     <th>Attendees</th>
@@ -34,8 +32,8 @@ title: Home
     <th>Sponsors</th>
     <th>Virtual option</th>
     <th>Digital archives</th>
+    <th>Other carbon footprint <small>(tons of CO<sub>2</sub>)</small></th>
     <th>Electronic program dissemination</th>
-
     <th>On-site maternity</th>
     <th>On-site childcare</th>
     <th>Caregiver grant</th>
@@ -45,6 +43,7 @@ title: Home
 
      <th>Code of conduct</th>
      <th>Safety instructions</th>
+     <th>Gender Balance/Diversity Statement</th>
      <th>Keynote speaker gender balance</th>
      <th>Speaker gender balance</th>
      <th>Invited speakers gender balance</th>
@@ -65,11 +64,9 @@ title: Home
   <td>{{ conference.year }}</td>
   <td>{{ conference.total_years }}</td>
   <td>{{ conference.discipline }}</td>
-	<td>{{ conference.gender_balance }}</td>
   <td>{{ conference.registration_fee }}</td>
   <td>{{ conference.attendance_cost }}</td>
   <td>{{ conference.carbon_footprint }}</td>
-  <td>{{ conference.other_carbon_footprint }}</td>
 
   <td>{{ conference.society_name }}</td>
   <td>{{ conference.society_members }}</td>
@@ -78,7 +75,8 @@ title: Home
   <td>{{ conference.frequency }}</td>
   <td>{{ conference.sponsors }}</td>
   <td>{{ conference.virtual_option }}</td>
-  <td>{{ conference.digital_archives }}</td>  
+  <td>{{ conference.digital_archives }}</td> 
+  <td>{{ conference.other_carbon_footprint }}</td> 
   <td>{{ conference.electronic_program }}</td>
 
   <td>{{ conference.onsite_maternity }}</td>
@@ -90,6 +88,7 @@ title: Home
 
   <td>{{ conference.code_of_conduct }}</td>
   <td>{{ conference.safety_instructions }}</td>
+  <td>{{ conference.gender_balance }}</td>
   <td>{{ conference.keynote_gender_balance }}</td>
   <td>{{ conference.speaker_gender_balance }}</td>
   <td>{{ conference.invited_gender_balance }}</td>
